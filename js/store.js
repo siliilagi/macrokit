@@ -23,6 +23,9 @@ const Store = (() => {
   let _ingredients = null; // { byId: {...}, list: [...] }
   let _seedRecipes = null;
   let _loadPromise = null;
+  let _sharedConfig = null;
+  let _sharedConfigPromise = null;
+  let _sharedRecipesCache = null; // cached per session so we don't refetch on every getAllRecipes() call
 
   function readLS(key, fallback) {
     try {
@@ -103,9 +106,65 @@ const Store = (() => {
     return readLS(KEYS.customRecipes, []).map((r) => ({ ...r, source: r.source || "custom" }));
   }
 
+  async function loadSharedConfig() {
+    if (_sharedConfigPromise) return _sharedConfigPromise;
+    _sharedConfigPromise = (async () => {
+      try {
+        const res = await fetch("data/shared-config.json");
+        _sharedConfig = await res.json();
+      } catch (e) {
+        _sharedConfig = { apiUrl: "" };
+      }
+    })();
+    return _sharedConfigPromise;
+  }
+
+  async function getSharedRecipes() {
+    if (_sharedRecipesCache) return _sharedRecipesCache;
+    await loadSharedConfig();
+    if (!_sharedConfig.apiUrl) {
+      _sharedRecipesCache = [];
+      return _sharedRecipesCache;
+    }
+    try {
+      const res = await fetch(_sharedConfig.apiUrl);
+      const rows = await res.json();
+      if (!Array.isArray(rows)) throw new Error("bad shared response");
+      _sharedRecipesCache = rows.map((r) => ({ ...r, source: "shared" }));
+    } catch (e) {
+      console.warn("Store: failed to load shared recipes", e);
+      _sharedRecipesCache = [];
+    }
+    return _sharedRecipesCache;
+  }
+
+  // Posts a recipe to the shared Google Sheet backend, if configured. Never
+  // throws — callers get back { ok, configured } and decide how to tell the
+  // user, so a sync failure never blocks the recipe's local save.
+  async function postSharedRecipe(recipe) {
+    await loadSharedConfig();
+    if (!_sharedConfig.apiUrl) return { ok: false, configured: false };
+    try {
+      const res = await fetch(_sharedConfig.apiUrl, {
+        method: "POST",
+        body: JSON.stringify({ recipe }),
+      });
+      const data = await res.json();
+      if (data && data.ok) {
+        _sharedRecipesCache = null; // invalidate so the next load picks up the new row
+        return { ok: true, configured: true };
+      }
+      return { ok: false, configured: true, error: data && data.error };
+    } catch (e) {
+      return { ok: false, configured: true, error: String(e) };
+    }
+  }
+
   async function getAllRecipes() {
-    const [seed, custom] = await Promise.all([getSeedRecipes(), getCustomRecipes()]);
-    return [...seed, ...custom];
+    const [seed, custom, shared] = await Promise.all([getSeedRecipes(), getCustomRecipes(), getSharedRecipes()]);
+    const localIds = new Set(custom.map((r) => r.id));
+    const sharedDeduped = shared.filter((r) => !localIds.has(r.id));
+    return [...seed, ...custom, ...sharedDeduped];
   }
 
   async function getRecipeById(id) {
@@ -198,6 +257,8 @@ const Store = (() => {
     saveApiKey,
     getSeedRecipes,
     getCustomRecipes,
+    getSharedRecipes,
+    postSharedRecipe,
     getAllRecipes,
     getRecipeById,
     saveCustomRecipe,

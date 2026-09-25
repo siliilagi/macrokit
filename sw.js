@@ -5,7 +5,7 @@
  * (a cross-origin POST to the Claude API) needs real connectivity, and this
  * worker deliberately never touches cross-origin or non-GET requests.
  */
-const CACHE_VERSION = "macrokit-v1";
+const CACHE_VERSION = "macrokit-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -19,6 +19,7 @@ const APP_SHELL = [
   "./js/app.js",
   "./data/ingredients.json",
   "./data/recipes.json",
+  "./data/shared-config.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
   "./icons/apple-touch-icon.png",

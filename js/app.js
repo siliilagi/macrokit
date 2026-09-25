@@ -1205,9 +1205,16 @@ const App = (() => {
       },
     };
     await Store.saveCustomRecipe(recipe);
+    const shareResult = await Store.postSharedRecipe(recipe);
     await invalidateRecipes();
-    showToast("Recipe saved!");
+    showToast(shareResultToast(shareResult));
     navigate(`recipe/${id}`);
+  }
+
+  function shareResultToast(shareResult) {
+    if (!shareResult.configured) return "Recipe saved!";
+    if (shareResult.ok) return "Recipe saved and shared with everyone!";
+    return "Saved to your recipes — couldn't sync to the shared list right now.";
   }
 
   // ---------------- Ingredient picker (for custom recipes) ----------------
@@ -1580,8 +1587,9 @@ const App = (() => {
       },
     };
     await Store.saveCustomRecipe(recipe);
+    const shareResult = await Store.postSharedRecipe(recipe);
     await invalidateRecipes();
-    showToast("Saved to your recipes!");
+    showToast(shareResultToast(shareResult));
     navigate(`recipe/${id}`);
   }
 
