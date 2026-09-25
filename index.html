@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1" />
+<title>MacroKit</title>
+<meta name="description" content="Personal meal planning and recomp macro tracking." />
+<meta name="theme-color" content="#1f7a5c" />
+<link rel="manifest" href="manifest.json" />
+
+<!-- iOS home-screen install support (Safari ignores manifest.json for these) -->
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="MacroKit" />
+
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <h1 id="topbar-title">MacroKit</h1>
+    <div class="actions" id="topbar-actions"></div>
+  </header>
+
+  <main class="view" id="view"></main>
+
+  <nav class="tabbar" id="tabbar">
+    <button data-route="recipes"><span class="tab-icon">📖</span>Recipes</button>
+    <button data-route="planner"><span class="tab-icon">📅</span>Planner</button>
+    <button data-route="shopping"><span class="tab-icon">🛒</span>Shopping</button>
+    <button data-route="gap-finder"><span class="tab-icon">🎯</span>Gap Finder</button>
+    <button data-route="more"><span class="tab-icon">⚙️</span>More</button>
+  </nav>
+</div>
+
+<script src="js/util.js"></script>
+<script src="js/store.js"></script>
+<script src="js/shopping.js"></script>
+<script src="js/gapfinder.js"></script>
+<script src="js/healthify.js"></script>
+<script src="js/app.js"></script>
+<script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("sw.js").catch((err) => console.error("SW registration failed:", err));
+    });
+  }
+</script>
+</body>
+</html>

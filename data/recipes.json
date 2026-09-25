@@ -1,0 +1,5452 @@
+[
+  {
+    "id": "veggie-cheddar-omelet",
+    "name": "Veggie Cheddar Omelet",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 3
+      },
+      {
+        "id": "spinach_fresh",
+        "amount": 30
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 0.5
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 20
+      },
+      {
+        "id": "olive_oil",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Whisk the 3 eggs in a bowl with a pinch of salt and pepper until fully blended.",
+      "Heat olive oil in a nonstick 8-inch skillet over medium heat.",
+      "Add diced bell pepper and cook 2 minutes, then add spinach and cook until wilted, about 1 minute.",
+      "Pour eggs over the vegetables, tilting the pan to spread evenly.",
+      "Cook undisturbed for 2 minutes until the edges set, then sprinkle cheddar over one half.",
+      "Fold the omelet in half over the cheese, cook 1 more minute, and slide onto a plate."
+    ],
+    "macros": {
+      "kcal": 363,
+      "protein": 25,
+      "carbs": 6,
+      "fat": 26
+    }
+  },
+  {
+    "id": "denver-scrambled-eggs",
+    "name": "Denver Scrambled Eggs",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "egg_white_liquid",
+        "amount": 100
+      },
+      {
+        "id": "bacon_turkey",
+        "amount": 2
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 0.5
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 0.25
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Cook chopped turkey bacon in a nonstick skillet over medium heat until crisp, about 4 minutes; remove and set aside.",
+      "In the same skillet, add diced bell pepper and onion and saute 3 minutes until softened.",
+      "Whisk eggs and egg whites together in a bowl.",
+      "Pour eggs into the skillet with the vegetables and reduce heat to medium-low.",
+      "Gently push the eggs with a spatula as they set, folding in the cooked turkey bacon.",
+      "When eggs are just set but still moist, remove from heat, top with cheddar, and serve."
+    ],
+    "macros": {
+      "kcal": 363,
+      "protein": 35,
+      "carbs": 8,
+      "fat": 21
+    }
+  },
+  {
+    "id": "egg-white-veggie-muffins",
+    "name": "Egg White Veggie Breakfast Muffins",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "none",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "egg_white_liquid",
+        "amount": 400
+      },
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "spinach_fresh",
+        "amount": 60
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 1
+      },
+      {
+        "id": "feta_crumbled",
+        "amount": 60
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350F (175C) and grease a 12-cup muffin tin well.",
+      "Finely dice bell pepper and onion, and roughly chop spinach.",
+      "Whisk egg whites and whole eggs together in a large bowl with salt and pepper.",
+      "Stir in the diced vegetables and crumbled feta.",
+      "Divide the mixture evenly among the 12 muffin cups, filling each about three-quarters full.",
+      "Bake 18-20 minutes until the muffins are puffed and set in the center.",
+      "Cool 5 minutes before removing from the tin; store leftovers refrigerated and reheat before eating."
+    ],
+    "macros": {
+      "kcal": 144,
+      "protein": 17,
+      "carbs": 5,
+      "fat": 6
+    }
+  },
+  {
+    "id": "turkey-bacon-egg-bake",
+    "name": "Turkey Bacon Egg Bake Casserole",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "none",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 8
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 200
+      },
+      {
+        "id": "bacon_turkey",
+        "amount": 6
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 1
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 1
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 100
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375F (190C) and grease a 9x9-inch baking dish.",
+      "Cook chopped turkey bacon in a skillet over medium heat until crisp; set aside.",
+      "In the same skillet, saute diced bell pepper and onion for 3-4 minutes until softened.",
+      "Whisk eggs and milk together in a large bowl with salt and pepper.",
+      "Stir in the cooked turkey bacon, sauteed vegetables, and half the cheddar.",
+      "Pour into the prepared dish and top with remaining cheddar.",
+      "Bake 30-35 minutes until the center is fully set and the top is golden.",
+      "Rest 5 minutes, then cut into 4 portions."
+    ],
+    "macros": {
+      "kcal": 333,
+      "protein": 26,
+      "carbs": 8,
+      "fat": 22
+    }
+  },
+  {
+    "id": "peanut-butter-banana-overnight-oats",
+    "name": "Peanut Butter Banana Overnight Oats",
+    "category": "breakfast",
+    "proteinSource": "dairy",
+    "carbSource": "oats",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "rolled_oats",
+        "amount": 50
+      },
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 100
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 100
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 16
+      },
+      {
+        "id": "banana",
+        "amount": 1
+      },
+      {
+        "id": "chia_seeds",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Slice half the banana and mash the other half in a jar or container.",
+      "Add rolled oats, Greek yogurt, milk, peanut butter, mashed banana, and chia seeds to the jar.",
+      "Stir well until the peanut butter is fully incorporated and no dry oats remain.",
+      "Cover and refrigerate overnight, or at least 4 hours.",
+      "In the morning, stir again and top with the reserved banana slices before eating."
+    ],
+    "macros": {
+      "kcal": 560,
+      "protein": 27,
+      "carbs": 77,
+      "fat": 19
+    }
+  },
+  {
+    "id": "berry-protein-overnight-oats",
+    "name": "Berry Protein Overnight Oats",
+    "category": "breakfast",
+    "proteinSource": "protein_powder",
+    "carbSource": "oats",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "rolled_oats",
+        "amount": 45
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 180
+      },
+      {
+        "id": "frozen_mixed_berries",
+        "amount": 60
+      },
+      {
+        "id": "chia_seeds",
+        "amount": 8
+      }
+    ],
+    "instructions": [
+      "Combine rolled oats, whey protein powder, and chia seeds in a jar and mix to break up any protein powder clumps.",
+      "Pour in almond milk and stir thoroughly until smooth.",
+      "Fold in the frozen mixed berries.",
+      "Cover and refrigerate overnight, or at least 4 hours, until the oats have softened.",
+      "Stir before serving; add a splash more almond milk if too thick."
+    ],
+    "macros": {
+      "kcal": 383,
+      "protein": 33,
+      "carbs": 45,
+      "fat": 9
+    }
+  },
+  {
+    "id": "high-protein-banana-pancakes",
+    "name": "High-Protein Banana Pancakes",
+    "category": "breakfast",
+    "proteinSource": "mixed",
+    "carbSource": "mixed",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "protein_pancake_mix",
+        "amount": 90
+      },
+      {
+        "id": "egg_large",
+        "amount": 1
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 80
+      },
+      {
+        "id": "banana",
+        "amount": 1
+      },
+      {
+        "id": "maple_syrup",
+        "amount": 15
+      }
+    ],
+    "instructions": [
+      "Whisk protein pancake mix, egg, and milk together in a bowl until smooth batter forms.",
+      "Slice the banana; fold half the slices into the batter and reserve the rest for topping.",
+      "Heat a nonstick griddle or skillet over medium heat and lightly grease it.",
+      "Pour 1/4-cup portions of batter onto the griddle and cook 2-3 minutes until bubbles form on top.",
+      "Flip and cook another 1-2 minutes until golden and cooked through.",
+      "Stack the pancakes, top with reserved banana slices, and drizzle with maple syrup."
+    ],
+    "macros": {
+      "kcal": 576,
+      "protein": 42,
+      "carbs": 77,
+      "fat": 12
+    }
+  },
+  {
+    "id": "blueberry-yogurt-protein-waffles",
+    "name": "Blueberry Yogurt Protein Waffles",
+    "category": "breakfast",
+    "proteinSource": "dairy",
+    "carbSource": "mixed",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "waffles_frozen",
+        "amount": 2
+      },
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 150
+      },
+      {
+        "id": "blueberries",
+        "amount": 75
+      },
+      {
+        "id": "honey",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Toast the frozen waffles according to package directions until crisp.",
+      "While waffles toast, rinse the blueberries.",
+      "Place toasted waffles on a plate and top with Greek yogurt.",
+      "Scatter blueberries over the yogurt.",
+      "Drizzle honey on top before serving."
+    ],
+    "macros": {
+      "kcal": 383,
+      "protein": 22,
+      "carbs": 59,
+      "fat": 8
+    }
+  },
+  {
+    "id": "greek-yogurt-berry-granola-parfait",
+    "name": "Greek Yogurt Berry Granola Parfait",
+    "category": "breakfast",
+    "proteinSource": "dairy",
+    "carbSource": "mixed",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 200
+      },
+      {
+        "id": "granola",
+        "amount": 40
+      },
+      {
+        "id": "blueberries",
+        "amount": 50
+      },
+      {
+        "id": "strawberries",
+        "amount": 50
+      },
+      {
+        "id": "honey",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Slice the strawberries.",
+      "Spoon a third of the Greek yogurt into a glass or bowl.",
+      "Layer with a third of the granola and mixed berries.",
+      "Repeat layering two more times with remaining yogurt, granola, and berries.",
+      "Finish with a drizzle of honey on top."
+    ],
+    "macros": {
+      "kcal": 409,
+      "protein": 25,
+      "carbs": 53,
+      "fat": 12
+    }
+  },
+  {
+    "id": "cottage-cheese-pineapple-almond-bowl",
+    "name": "Cottage Cheese Pineapple Almond Bowl",
+    "category": "breakfast",
+    "proteinSource": "dairy",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cottage_cheese_2pct",
+        "amount": 200
+      },
+      {
+        "id": "pineapple_chunks",
+        "amount": 100
+      },
+      {
+        "id": "almonds",
+        "amount": 15
+      },
+      {
+        "id": "honey",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Spoon the cottage cheese into a bowl.",
+      "Top with fresh pineapple chunks.",
+      "Roughly chop the almonds and sprinkle over the top.",
+      "Drizzle with honey and serve immediately."
+    ],
+    "macros": {
+      "kcal": 320,
+      "protein": 26,
+      "carbs": 28,
+      "fat": 13
+    }
+  },
+  {
+    "id": "black-bean-sweet-potato-breakfast-burrito",
+    "name": "Black Bean Sweet Potato Breakfast Burrito",
+    "category": "breakfast",
+    "proteinSource": "mixed",
+    "carbSource": "tortilla",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "sweet_potato",
+        "amount": 1
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 80
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 30
+      },
+      {
+        "id": "flour_tortilla",
+        "amount": 1
+      },
+      {
+        "id": "salsa",
+        "amount": 30
+      }
+    ],
+    "instructions": [
+      "Peel and dice the sweet potato into small cubes; microwave 4-5 minutes until fork-tender, or roast ahead of time.",
+      "Warm the black beans in a small pan over medium heat until heated through.",
+      "Scramble the eggs in a lightly greased skillet over medium heat until just set.",
+      "Warm the tortilla in a dry skillet or microwave for 15-20 seconds until pliable.",
+      "Layer the scrambled eggs, sweet potato, black beans, and cheddar down the center of the tortilla.",
+      "Top with salsa, fold in the sides, and roll tightly into a burrito.",
+      "Return the burrito seam-side down to the skillet for 1 minute per side to seal and lightly crisp."
+    ],
+    "macros": {
+      "kcal": 633,
+      "protein": 34,
+      "carbs": 73,
+      "fat": 24
+    }
+  },
+  {
+    "id": "turkey-bacon-breakfast-burrito",
+    "name": "Turkey Bacon Breakfast Burrito",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "tortilla",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "bacon_turkey",
+        "amount": 3
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 25
+      },
+      {
+        "id": "flour_tortilla",
+        "amount": 1
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 0.5
+      },
+      {
+        "id": "salsa",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Cook the turkey bacon in a skillet over medium heat until crisp; chop and set aside.",
+      "Add diced bell pepper to the same skillet and saute 2-3 minutes.",
+      "Whisk and scramble the eggs with the peppers until just set.",
+      "Warm the tortilla until pliable.",
+      "Fill the tortilla with scrambled eggs, chopped turkey bacon, and cheddar.",
+      "Top with salsa, fold into a burrito, and serve warm."
+    ],
+    "macros": {
+      "kcal": 497,
+      "protein": 33,
+      "carbs": 31,
+      "fat": 28
+    }
+  },
+  {
+    "id": "southwest-egg-white-breakfast-wrap",
+    "name": "Southwest Egg White Breakfast Wrap",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "tortilla",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "egg_white_liquid",
+        "amount": 200
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 60
+      },
+      {
+        "id": "corn_tortilla",
+        "amount": 2
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 20
+      },
+      {
+        "id": "salsa",
+        "amount": 30
+      },
+      {
+        "id": "avocado",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Warm the black beans in a small saucepan over medium heat.",
+      "Pour egg whites into a lightly greased skillet and scramble over medium heat until just set.",
+      "Warm the corn tortillas in a dry skillet, about 20 seconds per side.",
+      "Mash the avocado half with a pinch of salt.",
+      "Spread mashed avocado on the tortillas, then top with scrambled egg whites, black beans, and cheddar.",
+      "Finish with salsa, fold or roll the tortillas, and serve."
+    ],
+    "macros": {
+      "kcal": 499,
+      "protein": 37,
+      "carbs": 47,
+      "fat": 20
+    }
+  },
+  {
+    "id": "egg-cheddar-english-muffin-sandwich",
+    "name": "Egg and Cheddar English Muffin Sandwich",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "english_muffin",
+        "amount": 1
+      },
+      {
+        "id": "egg_large",
+        "amount": 1
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 20
+      },
+      {
+        "id": "bacon_turkey",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Split and toast the English muffin until golden.",
+      "Cook the turkey bacon slices in a skillet over medium heat until crisp.",
+      "In the same skillet, fry the egg in a small greased ring mold or free-form to muffin size, breaking the yolk, until set, about 2-3 minutes.",
+      "Place the cheddar on the hot egg to melt slightly.",
+      "Assemble the sandwich with turkey bacon and cheesy egg between the toasted muffin halves."
+    ],
+    "macros": {
+      "kcal": 347,
+      "protein": 23,
+      "carbs": 28,
+      "fat": 16
+    }
+  },
+  {
+    "id": "bacon-egg-cheese-bagel-sandwich",
+    "name": "Bacon Egg and Cheese Bagel Sandwich",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "bagel_plain",
+        "amount": 1
+      },
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 20
+      },
+      {
+        "id": "bacon_turkey",
+        "amount": 3
+      }
+    ],
+    "instructions": [
+      "Slice the bagel in half and toast until golden.",
+      "Cook the turkey bacon in a skillet over medium heat until crisp; set aside.",
+      "Whisk the eggs and scramble them in the same skillet until just set, or fry into a round patty.",
+      "Sprinkle cheddar over the hot eggs to melt.",
+      "Layer the turkey bacon and cheesy eggs onto the toasted bagel and serve."
+    ],
+    "macros": {
+      "kcal": 560,
+      "protein": 36,
+      "carbs": 50,
+      "fat": 24
+    }
+  },
+  {
+    "id": "cream-cheese-tomato-bagel",
+    "name": "Cream Cheese and Tomato Bagel",
+    "category": "breakfast",
+    "proteinSource": "dairy",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "bagel_plain",
+        "amount": 1
+      },
+      {
+        "id": "cream_cheese",
+        "amount": 40
+      },
+      {
+        "id": "tomato",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Slice the bagel in half and toast to desired crispness.",
+      "Spread cream cheese evenly over both toasted halves.",
+      "Thinly slice the tomato and layer over the cream cheese.",
+      "Season with a pinch of salt and pepper, then serve open-faced or closed."
+    ],
+    "macros": {
+      "kcal": 393,
+      "protein": 12,
+      "carbs": 53,
+      "fat": 15
+    }
+  },
+  {
+    "id": "berry-protein-smoothie-bowl",
+    "name": "Berry Protein Smoothie Bowl",
+    "category": "breakfast",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "frozen_mixed_berries",
+        "amount": 150
+      },
+      {
+        "id": "banana",
+        "amount": 0.5
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 100
+      },
+      {
+        "id": "granola",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Add frozen mixed berries, banana, whey protein powder, and almond milk to a blender.",
+      "Blend on high until thick and smooth, stopping to scrape down the sides as needed; add a splash more almond milk only if the blender stalls.",
+      "Pour the thick smoothie into a bowl.",
+      "Top with granola and serve immediately with a spoon."
+    ],
+    "macros": {
+      "kcal": 356,
+      "protein": 28,
+      "carbs": 49,
+      "fat": 7
+    }
+  },
+  {
+    "id": "tropical-mango-coconut-smoothie-bowl",
+    "name": "Tropical Mango Coconut Smoothie Bowl",
+    "category": "breakfast",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "mango_chunks_frozen",
+        "amount": 150
+      },
+      {
+        "id": "pineapple_chunks",
+        "amount": 50
+      },
+      {
+        "id": "plant_protein_powder",
+        "amount": 33
+      },
+      {
+        "id": "coconut_milk_canned",
+        "amount": 80
+      },
+      {
+        "id": "coconut_shredded_unsweet",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Add frozen mango, pineapple, plant protein powder, and coconut milk to a blender.",
+      "Blend on high until thick and smooth, scraping down the sides as needed.",
+      "Pour into a bowl.",
+      "Sprinkle shredded coconut over the top and serve right away."
+    ],
+    "macros": {
+      "kcal": 495,
+      "protein": 28,
+      "carbs": 40,
+      "fat": 29
+    }
+  },
+  {
+    "id": "honey-walnut-cream-of-wheat",
+    "name": "Honey Walnut Cream of Wheat",
+    "category": "breakfast",
+    "proteinSource": "dairy",
+    "carbSource": "mixed",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cream_of_wheat_dry",
+        "amount": 50
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 150
+      },
+      {
+        "id": "honey",
+        "amount": 12
+      },
+      {
+        "id": "walnuts",
+        "amount": 15
+      }
+    ],
+    "instructions": [
+      "Bring the milk to a gentle simmer in a small saucepan over medium heat.",
+      "Whisk in the cream of wheat, stirring constantly to prevent lumps.",
+      "Reduce heat to low and cook 2-3 minutes, stirring often, until thickened.",
+      "Remove from heat and pour into a bowl.",
+      "Top with chopped walnuts and a drizzle of honey before serving."
+    ],
+    "macros": {
+      "kcal": 396,
+      "protein": 13,
+      "carbs": 58,
+      "fat": 13
+    }
+  },
+  {
+    "id": "protein-cream-of-wheat-with-banana",
+    "name": "Protein Cream of Wheat with Banana",
+    "category": "breakfast",
+    "proteinSource": "protein_powder",
+    "carbSource": "mixed",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cream_of_wheat_dry",
+        "amount": 45
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 120
+      },
+      {
+        "id": "banana",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Bring the milk and 120ml water to a gentle simmer in a small saucepan.",
+      "Whisk in the cream of wheat and cook 2-3 minutes, stirring constantly, until thickened.",
+      "Remove from heat and let cool slightly for 1 minute so it does not clump the protein powder.",
+      "Whisk in the whey protein powder until fully smooth.",
+      "Slice the banana and fold half into the bowl, topping with the rest."
+    ],
+    "macros": {
+      "kcal": 452,
+      "protein": 34,
+      "carbs": 71,
+      "fat": 5
+    }
+  },
+  {
+    "id": "avocado-egg-toast-with-feta",
+    "name": "Avocado Egg Toast with Feta and Tomato",
+    "category": "breakfast",
+    "proteinSource": "egg",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whole_wheat_bread",
+        "amount": 2
+      },
+      {
+        "id": "avocado",
+        "amount": 1
+      },
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "feta_crumbled",
+        "amount": 20
+      },
+      {
+        "id": "cherry_tomatoes",
+        "amount": 50
+      }
+    ],
+    "instructions": [
+      "Toast the bread slices until golden and crisp.",
+      "Fry the eggs in a lightly greased nonstick skillet over medium heat to your preferred doneness, about 3 minutes for a runny yolk.",
+      "Mash the avocado with a pinch of salt and pepper and spread over the toast.",
+      "Halve the cherry tomatoes.",
+      "Top each slice of toast with a fried egg, crumbled feta, and cherry tomatoes."
+    ],
+    "macros": {
+      "kcal": 606,
+      "protein": 27,
+      "carbs": 44,
+      "fat": 38
+    }
+  },
+  {
+    "id": "peanut-butter-banana-toast",
+    "name": "Peanut Butter Banana Toast",
+    "category": "breakfast",
+    "proteinSource": "plant",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whole_wheat_bread",
+        "amount": 2
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 32
+      },
+      {
+        "id": "banana",
+        "amount": 1
+      },
+      {
+        "id": "honey",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Toast the bread slices until golden.",
+      "Spread peanut butter evenly over both slices while still warm.",
+      "Slice the banana and layer over the peanut butter.",
+      "Drizzle with honey and serve immediately."
+    ],
+    "macros": {
+      "kcal": 484,
+      "protein": 17,
+      "carbs": 70,
+      "fat": 18
+    }
+  },
+  {
+    "id": "classic-vanilla-whey-protein-shake",
+    "name": "Classic Vanilla Whey Protein Shake",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 35
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 350
+      }
+    ],
+    "instructions": [
+      "Add milk and whey protein powder to a shaker bottle or blender.",
+      "Shake vigorously for 20-30 seconds, or blend for 15 seconds, until smooth.",
+      "Pour over ice if desired and drink immediately."
+    ],
+    "macros": {
+      "kcal": 315,
+      "protein": 40,
+      "carbs": 20,
+      "fat": 9
+    }
+  },
+  {
+    "id": "chocolate-whey-protein-shake",
+    "name": "Chocolate Whey Protein Shake",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 35
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 300
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Add milk, whey protein powder, and cocoa powder to a shaker bottle or blender.",
+      "Shake or blend until smooth with no cocoa clumps remaining.",
+      "Pour over ice and serve immediately."
+    ],
+    "macros": {
+      "kcal": 313,
+      "protein": 40,
+      "carbs": 24,
+      "fat": 9
+    }
+  },
+  {
+    "id": "vanilla-plant-protein-shake",
+    "name": "Vanilla Plant Protein Shake",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "plant_protein_powder",
+        "amount": 33
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 350
+      }
+    ],
+    "instructions": [
+      "Add almond milk and plant protein powder to a shaker bottle.",
+      "Shake vigorously for 30 seconds until fully dissolved and smooth.",
+      "Serve over ice."
+    ],
+    "macros": {
+      "kcal": 176,
+      "protein": 25,
+      "carbs": 6,
+      "fat": 6
+    }
+  },
+  {
+    "id": "chocolate-pb-plant-protein-shake",
+    "name": "Chocolate Peanut Butter Plant Protein Shake",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "plant_protein_powder",
+        "amount": 33
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 300
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 10
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 16
+      }
+    ],
+    "instructions": [
+      "Add all ingredients to a blender.",
+      "Blend on high for 20-30 seconds until smooth and no peanut butter chunks remain.",
+      "Pour over ice and serve."
+    ],
+    "macros": {
+      "kcal": 286,
+      "protein": 31,
+      "carbs": 15,
+      "fat": 15
+    }
+  },
+  {
+    "id": "strawberry-banana-protein-smoothie",
+    "name": "Strawberry Banana Protein Smoothie",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "strawberries",
+        "amount": 100
+      },
+      {
+        "id": "banana",
+        "amount": 1
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 200
+      }
+    ],
+    "instructions": [
+      "Add strawberries, banana, whey protein powder, and milk to a blender.",
+      "Blend on high for 30-45 seconds until smooth and creamy.",
+      "Add a few ice cubes and blend again briefly if a thicker, colder texture is desired.",
+      "Pour into a glass and serve immediately."
+    ],
+    "macros": {
+      "kcal": 357,
+      "protein": 33,
+      "carbs": 47,
+      "fat": 6
+    }
+  },
+  {
+    "id": "mixed-berry-greek-yogurt-protein-smoothie",
+    "name": "Mixed Berry Greek Yogurt Protein Smoothie",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 25
+      },
+      {
+        "id": "frozen_mixed_berries",
+        "amount": 120
+      },
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 100
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 150
+      }
+    ],
+    "instructions": [
+      "Add frozen mixed berries, Greek yogurt, whey protein powder, and almond milk to a blender.",
+      "Blend on high for 30-45 seconds until smooth and thick.",
+      "Add a splash more almond milk if the blender needs help, then blend again.",
+      "Pour into a glass and serve immediately."
+    ],
+    "macros": {
+      "kcal": 254,
+      "protein": 31,
+      "carbs": 22,
+      "fat": 5
+    }
+  },
+  {
+    "id": "mango-pineapple-plant-protein-smoothie",
+    "name": "Mango Pineapple Plant Protein Smoothie",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "plant_protein_powder",
+        "amount": 33
+      },
+      {
+        "id": "mango_chunks_frozen",
+        "amount": 100
+      },
+      {
+        "id": "pineapple_chunks",
+        "amount": 80
+      },
+      {
+        "id": "coconut_milk_canned",
+        "amount": 100
+      }
+    ],
+    "instructions": [
+      "Add frozen mango, pineapple, plant protein powder, and coconut milk to a blender.",
+      "Blend on high for 30-45 seconds until smooth.",
+      "Add a splash of water if too thick, then blend again briefly.",
+      "Pour into a glass and serve immediately."
+    ],
+    "macros": {
+      "kcal": 460,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 27
+    }
+  },
+  {
+    "id": "green-detox-protein-smoothie",
+    "name": "Green Detox Protein Smoothie",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "spinach_fresh",
+        "amount": 40
+      },
+      {
+        "id": "banana",
+        "amount": 1
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 250
+      },
+      {
+        "id": "chia_seeds",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Add spinach and almond milk to a blender first and blend until the spinach is fully broken down.",
+      "Add banana, whey protein powder, and chia seeds.",
+      "Blend on high for 30-45 seconds until completely smooth.",
+      "Pour into a glass and drink immediately, or over ice."
+    ],
+    "macros": {
+      "kcal": 315,
+      "protein": 29,
+      "carbs": 37,
+      "fat": 8
+    }
+  },
+  {
+    "id": "protein-cold-brew",
+    "name": "Protein Cold Brew",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 150
+      },
+      {
+        "id": "cold_brew_concentrate",
+        "amount": 240
+      },
+      {
+        "id": "maple_syrup",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Fill a shaker bottle or glass with ice.",
+      "Add the cold brew coffee, milk, whey protein powder, and maple syrup.",
+      "Shake vigorously for 20-30 seconds, or stir well if using a glass, until the protein powder is fully dissolved.",
+      "Serve immediately over ice."
+    ],
+    "macros": {
+      "kcal": 221,
+      "protein": 29,
+      "carbs": 17,
+      "fat": 5
+    }
+  },
+  {
+    "id": "vanilla-protein-latte",
+    "name": "Vanilla Protein Latte",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "milk_whole",
+        "amount": 220
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 3
+      },
+      {
+        "id": "espresso_shot",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Brew 2 shots of espresso (or 60ml strong coffee) and set aside.",
+      "Warm the milk in a small saucepan over medium-low heat until steaming but not boiling, or steam with an espresso machine.",
+      "In a mug, whisk the whey protein powder and vanilla extract with a splash of the warm milk until smooth and lump-free.",
+      "Stir in the espresso.",
+      "Top with the remaining warm milk, stirring gently to combine, and serve hot."
+    ],
+    "macros": {
+      "kcal": 263,
+      "protein": 31,
+      "carbs": 14,
+      "fat": 9
+    }
+  },
+  {
+    "id": "mocha-protein-shake",
+    "name": "Mocha Protein Shake",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 250
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 8
+      },
+      {
+        "id": "cold_brew_concentrate",
+        "amount": 120
+      }
+    ],
+    "instructions": [
+      "Add milk, whey protein powder, cocoa powder, and cold brew coffee to a blender or shaker bottle.",
+      "Blend or shake vigorously until smooth with no cocoa clumps.",
+      "Pour over ice and serve immediately."
+    ],
+    "macros": {
+      "kcal": 263,
+      "protein": 34,
+      "carbs": 20,
+      "fat": 8
+    }
+  },
+  {
+    "id": "electrolyte-hydration-drink",
+    "name": "Electrolyte Hydration Drink",
+    "category": "drink",
+    "proteinSource": "none",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "lime",
+        "amount": 1
+      },
+      {
+        "id": "lemon",
+        "amount": 1
+      },
+      {
+        "id": "honey",
+        "amount": 15
+      },
+      {
+        "id": "salt",
+        "amount": 1
+      },
+      {
+        "name": "Cold water",
+        "amount": "500 ml (2 cups)",
+        "freeform": true
+      }
+    ],
+    "instructions": [
+      "Juice the lime and lemon into a large glass or pitcher.",
+      "Add the honey and salt.",
+      "Pour in the cold water and stir until the honey and salt fully dissolve.",
+      "Taste and adjust with an extra pinch of salt if needed, then serve over ice."
+    ],
+    "macros": {
+      "kcal": 83,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0
+    }
+  },
+  {
+    "id": "cucumber-lemon-infused-water",
+    "name": "Cucumber Lemon Infused Water",
+    "category": "drink",
+    "proteinSource": "none",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cucumber",
+        "amount": 0.5
+      },
+      {
+        "id": "lemon",
+        "amount": 1
+      },
+      {
+        "name": "Cold water",
+        "amount": "500 ml (2 cups)",
+        "freeform": true
+      }
+    ],
+    "instructions": [
+      "Thinly slice the cucumber and lemon.",
+      "Add the slices to a large glass or pitcher of cold water.",
+      "Refrigerate at least 1 hour to let the flavors infuse, or serve right away over ice.",
+      "Refill with water throughout the day, discarding fruit after about 12 hours."
+    ],
+    "macros": {
+      "kcal": 40,
+      "protein": 2,
+      "carbs": 11,
+      "fat": 0
+    }
+  },
+  {
+    "id": "chocolate-peanut-butter-protein-milkshake",
+    "name": "Chocolate Peanut Butter Protein Milkshake",
+    "category": "drink",
+    "proteinSource": "dairy",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "protein_ice_cream",
+        "amount": 0.5
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 100
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 16
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Add the protein ice cream, milk, peanut butter, and cocoa powder to a blender.",
+      "Blend on high for 20-30 seconds until thick and smooth, stopping to scrape down the sides if needed.",
+      "Pour into a glass and serve immediately with a straw or spoon."
+    ],
+    "macros": {
+      "kcal": 315,
+      "protein": 28,
+      "carbs": 27,
+      "fat": 15
+    }
+  },
+  {
+    "id": "vanilla-berry-protein-milkshake",
+    "name": "Vanilla Berry Protein Milkshake",
+    "category": "drink",
+    "proteinSource": "dairy",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "protein_ice_cream",
+        "amount": 0.5
+      },
+      {
+        "id": "strawberries",
+        "amount": 80
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 100
+      }
+    ],
+    "instructions": [
+      "Add the protein ice cream, strawberries, and milk to a blender.",
+      "Blend on high for 20-30 seconds until thick and smooth.",
+      "Pour into a glass and serve immediately."
+    ],
+    "macros": {
+      "kcal": 236,
+      "protein": 24,
+      "carbs": 27,
+      "fat": 6
+    }
+  },
+  {
+    "id": "pina-colada-protein-smoothie",
+    "name": "Pina Colada Protein Smoothie",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "plant_protein_powder",
+        "amount": 33
+      },
+      {
+        "id": "pineapple_chunks",
+        "amount": 120
+      },
+      {
+        "id": "coconut_milk_canned",
+        "amount": 100
+      },
+      {
+        "id": "coconut_shredded_unsweet",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Add pineapple chunks, plant protein powder, and coconut milk to a blender.",
+      "Blend on high for 30-45 seconds until smooth and creamy.",
+      "Pour into a glass and sprinkle shredded coconut on top before serving."
+    ],
+    "macros": {
+      "kcal": 486,
+      "protein": 28,
+      "carbs": 28,
+      "fat": 33
+    }
+  },
+  {
+    "id": "oatmeal-cookie-protein-shake",
+    "name": "Oatmeal Cookie Protein Shake",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "oats",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "rolled_oats",
+        "amount": 20
+      },
+      {
+        "id": "almond_butter",
+        "amount": 16
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 250
+      },
+      {
+        "id": "honey",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Add rolled oats, whey protein powder, almond butter, milk, and honey to a blender.",
+      "Blend on high for 30-45 seconds until the oats are broken down and the shake is smooth.",
+      "Pour over ice and serve immediately."
+    ],
+    "macros": {
+      "kcal": 449,
+      "protein": 38,
+      "carbs": 40,
+      "fat": 17
+    }
+  },
+  {
+    "id": "chocolate-banana-protein-shake",
+    "name": "Chocolate Banana Protein Shake",
+    "category": "drink",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "banana",
+        "amount": 1
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 8
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 250
+      }
+    ],
+    "instructions": [
+      "Add banana, whey protein powder, cocoa powder, and milk to a blender.",
+      "Blend on high for 30-45 seconds until smooth and creamy.",
+      "Pour over ice and serve immediately."
+    ],
+    "macros": {
+      "kcal": 368,
+      "protein": 35,
+      "carbs": 47,
+      "fat": 8
+    }
+  },
+  {
+    "id": "chicken-burrito-bowl",
+    "name": "Chicken Burrito Bowl",
+    "category": "lunch",
+    "proteinSource": "chicken",
+    "carbSource": "rice",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "amount": 340
+      },
+      {
+        "id": "white_rice_cooked",
+        "amount": 300
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 150
+      },
+      {
+        "id": "salsa",
+        "amount": 80
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 40
+      },
+      {
+        "id": "avocado",
+        "amount": 1
+      },
+      {
+        "id": "lime",
+        "amount": 0.5
+      },
+      {
+        "id": "cilantro",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Season chicken breast with salt and pepper, then grill or pan-sear over medium-high heat for 6-7 minutes per side until it reaches 165°F internally.",
+      "Let chicken rest 5 minutes, then slice into strips.",
+      "Warm the cooked rice and black beans separately in a skillet or microwave until hot.",
+      "Divide rice and beans between two bowls.",
+      "Top each bowl with sliced chicken, salsa, and shredded cheddar.",
+      "Add diced avocado, a squeeze of lime, and chopped cilantro before serving."
+    ],
+    "macros": {
+      "kcal": 795,
+      "protein": 71,
+      "carbs": 72,
+      "fat": 25
+    }
+  },
+  {
+    "id": "turkey-hummus-spinach-wrap",
+    "name": "Turkey Hummus Spinach Wrap",
+    "category": "lunch",
+    "proteinSource": "turkey",
+    "carbSource": "tortilla",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "flour_tortilla",
+        "amount": 1
+      },
+      {
+        "id": "deli_turkey_breast",
+        "amount": 90
+      },
+      {
+        "id": "hummus",
+        "amount": 30
+      },
+      {
+        "id": "spinach_fresh",
+        "amount": 20
+      },
+      {
+        "id": "cucumber",
+        "amount": 0.25
+      },
+      {
+        "id": "tomato",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Lay the tortilla flat and spread hummus evenly over the surface.",
+      "Layer turkey slices, spinach leaves, thinly sliced cucumber, and sliced tomato over the bottom third.",
+      "Fold in the sides of the tortilla, then roll tightly from the bottom up.",
+      "Slice in half on a diagonal and serve."
+    ],
+    "macros": {
+      "kcal": 310,
+      "protein": 24,
+      "carbs": 37,
+      "fat": 8
+    }
+  },
+  {
+    "id": "classic-tuna-salad-sandwich",
+    "name": "Classic Tuna Salad Sandwich",
+    "category": "lunch",
+    "proteinSource": "fish",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "tuna_canned_water",
+        "amount": 142
+      },
+      {
+        "id": "mayo",
+        "amount": 15
+      },
+      {
+        "id": "mustard",
+        "amount": 5
+      },
+      {
+        "id": "whole_wheat_bread",
+        "amount": 2
+      },
+      {
+        "id": "tomato",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Drain the tuna well and add to a bowl with mayo and mustard.",
+      "Mix with a fork until evenly combined, breaking up large chunks.",
+      "Toast the bread if desired, then spread the tuna salad over one slice.",
+      "Top with sliced tomato and the second slice of bread.",
+      "Cut in half and serve."
+    ],
+    "macros": {
+      "kcal": 441,
+      "protein": 46,
+      "carbs": 31,
+      "fat": 15
+    }
+  },
+  {
+    "id": "greek-chicken-quinoa-bowl",
+    "name": "Greek Chicken Quinoa Bowl",
+    "category": "lunch",
+    "proteinSource": "chicken",
+    "carbSource": "quinoa",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "amount": 300
+      },
+      {
+        "id": "quinoa_cooked",
+        "amount": 300
+      },
+      {
+        "id": "cucumber",
+        "amount": 1
+      },
+      {
+        "id": "cherry_tomatoes",
+        "amount": 150
+      },
+      {
+        "id": "feta_crumbled",
+        "amount": 60
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      },
+      {
+        "id": "lemon",
+        "amount": 1
+      },
+      {
+        "id": "red_onion",
+        "amount": 0.3
+      }
+    ],
+    "instructions": [
+      "Season chicken breast with salt, pepper, and a pinch of dried oregano if available, then grill or pan-sear 6-7 minutes per side until 165°F internally.",
+      "Let chicken rest, then slice.",
+      "Divide cooked quinoa between two bowls.",
+      "Top with diced cucumber, halved cherry tomatoes, thinly sliced red onion, and crumbled feta.",
+      "Arrange sliced chicken on top.",
+      "Whisk olive oil with the juice of the lemon and drizzle over each bowl before serving."
+    ],
+    "macros": {
+      "kcal": 624,
+      "protein": 59,
+      "carbs": 45,
+      "fat": 22
+    }
+  },
+  {
+    "id": "southwest-chicken-salad-lime-cumin-vinaigrette",
+    "name": "Southwest Chicken Salad with Lime-Cumin Vinaigrette",
+    "category": "lunch",
+    "proteinSource": "chicken",
+    "carbSource": "legume",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "mixed_greens",
+        "amount": 60
+      },
+      {
+        "id": "rotisserie_chicken_shredded",
+        "amount": 120
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 80
+      },
+      {
+        "id": "corn_kernels_frozen",
+        "amount": 60
+      },
+      {
+        "id": "avocado",
+        "amount": 0.5
+      },
+      {
+        "id": "olive_oil",
+        "amount": 10
+      },
+      {
+        "id": "lime",
+        "amount": 1
+      },
+      {
+        "id": "cumin",
+        "amount": 1
+      },
+      {
+        "id": "chili_powder",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Thaw and warm the corn kernels briefly, then let cool.",
+      "Whisk together olive oil, juice of the lime, cumin, and chili powder to make the vinaigrette.",
+      "Arrange mixed greens in a large bowl.",
+      "Top with shredded rotisserie chicken, black beans, corn, and diced avocado.",
+      "Drizzle the vinaigrette over the top and toss gently before serving."
+    ],
+    "macros": {
+      "kcal": 609,
+      "protein": 45,
+      "carbs": 47,
+      "fat": 31
+    }
+  },
+  {
+    "id": "chickpea-salad-sandwich",
+    "name": "Chickpea Salad Sandwich",
+    "category": "lunch",
+    "proteinSource": "plant",
+    "carbSource": "bread",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "chickpeas_canned",
+        "amount": 300
+      },
+      {
+        "id": "mayo",
+        "amount": 30
+      },
+      {
+        "id": "mustard",
+        "amount": 10
+      },
+      {
+        "id": "cucumber",
+        "amount": 0.3
+      },
+      {
+        "id": "red_onion",
+        "amount": 0.2
+      },
+      {
+        "id": "whole_wheat_bread",
+        "amount": 4
+      }
+    ],
+    "instructions": [
+      "Drain and rinse chickpeas, then mash roughly with a fork in a bowl, leaving some texture.",
+      "Stir in mayo and mustard until combined.",
+      "Finely dice cucumber and red onion and fold into the mixture.",
+      "Divide the chickpea salad between two slices of bread.",
+      "Top each with a second slice of bread, cut in half, and serve."
+    ],
+    "macros": {
+      "kcal": 485,
+      "protein": 20,
+      "carbs": 65,
+      "fat": 17
+    }
+  },
+  {
+    "id": "beef-taco-rice-bowl",
+    "name": "Beef Taco Rice Bowl",
+    "category": "lunch",
+    "proteinSource": "beef",
+    "carbSource": "rice",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "ground_beef_93",
+        "amount": 300
+      },
+      {
+        "id": "white_rice_cooked",
+        "amount": 300
+      },
+      {
+        "id": "taco_seasoning",
+        "amount": 14
+      },
+      {
+        "id": "salsa",
+        "amount": 60
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 50
+      },
+      {
+        "id": "mixed_greens",
+        "amount": 60
+      },
+      {
+        "id": "sour_cream",
+        "amount": 30
+      }
+    ],
+    "instructions": [
+      "Brown the ground beef in a skillet over medium-high heat, breaking it up as it cooks, about 6-8 minutes.",
+      "Drain excess fat, add taco seasoning with a splash of water, and simmer 2 minutes.",
+      "Warm the rice and divide between two bowls.",
+      "Top each with taco beef, mixed greens, salsa, shredded cheddar, and a dollop of sour cream."
+    ],
+    "macros": {
+      "kcal": 589,
+      "protein": 44,
+      "carbs": 50,
+      "fat": 22
+    }
+  },
+  {
+    "id": "egg-salad-sandwich",
+    "name": "Egg Salad Sandwich",
+    "category": "lunch",
+    "proteinSource": "egg",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 3
+      },
+      {
+        "id": "mayo",
+        "amount": 20
+      },
+      {
+        "id": "mustard",
+        "amount": 5
+      },
+      {
+        "id": "whole_wheat_bread",
+        "amount": 2
+      },
+      {
+        "id": "green_onion",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Place eggs in a pot, cover with water, bring to a boil, then remove from heat and let sit covered for 11 minutes.",
+      "Cool eggs in ice water, peel, and chop.",
+      "Mix chopped eggs with mayo, mustard, and sliced green onion.",
+      "Spread the egg salad on one slice of bread, top with the second slice, and cut in half."
+    ],
+    "macros": {
+      "kcal": 520,
+      "protein": 28,
+      "carbs": 31,
+      "fat": 32
+    }
+  },
+  {
+    "id": "turkey-club-wrap",
+    "name": "Turkey Club Wrap",
+    "category": "lunch",
+    "proteinSource": "turkey",
+    "carbSource": "tortilla",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "flour_tortilla",
+        "amount": 1
+      },
+      {
+        "id": "deli_turkey_breast",
+        "amount": 80
+      },
+      {
+        "id": "bacon_turkey",
+        "amount": 2
+      },
+      {
+        "id": "mayo",
+        "amount": 10
+      },
+      {
+        "id": "mixed_greens",
+        "amount": 20
+      },
+      {
+        "id": "tomato",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Cook turkey bacon in a skillet over medium heat until crisp, about 4-5 minutes, then chop.",
+      "Lay the tortilla flat and spread mayo over the surface.",
+      "Layer turkey breast, chopped bacon, mixed greens, and sliced tomato.",
+      "Fold in the sides and roll tightly.",
+      "Slice in half and serve."
+    ],
+    "macros": {
+      "kcal": 366,
+      "protein": 25,
+      "carbs": 30,
+      "fat": 16
+    }
+  },
+  {
+    "id": "chicken-caesar-pasta-salad",
+    "name": "Chicken Caesar Pasta Salad",
+    "category": "lunch",
+    "proteinSource": "chicken",
+    "carbSource": "pasta",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "pasta_dry",
+        "amount": 200
+      },
+      {
+        "id": "chicken_breast",
+        "amount": 250
+      },
+      {
+        "id": "parmesan_grated",
+        "amount": 30
+      },
+      {
+        "id": "olive_oil",
+        "amount": 20
+      },
+      {
+        "id": "lemon",
+        "amount": 1
+      },
+      {
+        "id": "spinach_fresh",
+        "amount": 40
+      }
+    ],
+    "instructions": [
+      "Cook pasta in salted boiling water according to package directions, then drain and cool slightly.",
+      "Season chicken with salt and pepper and grill or pan-sear 6-7 minutes per side until 165°F internally, then slice.",
+      "Whisk olive oil with the juice of the lemon and a pinch of black pepper.",
+      "Toss cooked pasta with spinach, sliced chicken, and the lemon dressing.",
+      "Top with grated parmesan and serve warm or chilled."
+    ],
+    "macros": {
+      "kcal": 743,
+      "protein": 58,
+      "carbs": 79,
+      "fat": 21
+    }
+  },
+  {
+    "id": "tuna-pasta-salad",
+    "name": "Tuna Pasta Salad",
+    "category": "lunch",
+    "proteinSource": "fish",
+    "carbSource": "pasta",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "pasta_dry",
+        "amount": 200
+      },
+      {
+        "id": "tuna_canned_water",
+        "amount": 240
+      },
+      {
+        "id": "mayo",
+        "amount": 40
+      },
+      {
+        "id": "red_onion",
+        "amount": 0.3
+      },
+      {
+        "id": "cucumber",
+        "amount": 0.5
+      },
+      {
+        "id": "cherry_tomatoes",
+        "amount": 100
+      }
+    ],
+    "instructions": [
+      "Cook pasta in salted boiling water according to package directions, then drain and rinse under cold water to cool.",
+      "Drain tuna well and flake into a large bowl.",
+      "Add cooled pasta, mayo, finely diced red onion, diced cucumber, and halved cherry tomatoes.",
+      "Toss until evenly coated and season with salt and pepper to taste.",
+      "Chill for at least 20 minutes before serving."
+    ],
+    "macros": {
+      "kcal": 673,
+      "protein": 46,
+      "carbs": 81,
+      "fat": 18
+    }
+  },
+  {
+    "id": "loaded-black-bean-baked-potato",
+    "name": "Loaded Black Bean Baked Potato",
+    "category": "lunch",
+    "proteinSource": "plant",
+    "carbSource": "potato",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "russet_potato",
+        "amount": 1
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 120
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 30
+      },
+      {
+        "id": "sour_cream",
+        "amount": 20
+      },
+      {
+        "id": "green_onion",
+        "amount": 1
+      },
+      {
+        "id": "salsa",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Pierce the potato several times with a fork and microwave on high 8-10 minutes, or bake at 425°F for 45-50 minutes, until tender.",
+      "Warm the black beans in a small saucepan.",
+      "Slice the potato open lengthwise and fluff the inside with a fork.",
+      "Top with black beans and shredded cheddar while hot so the cheese melts.",
+      "Finish with sour cream, salsa, and sliced green onion."
+    ],
+    "macros": {
+      "kcal": 499,
+      "protein": 24,
+      "carbs": 70,
+      "fat": 15
+    }
+  },
+  {
+    "id": "chicken-tortilla-soup",
+    "name": "Chicken Tortilla Soup",
+    "category": "lunch",
+    "proteinSource": "chicken",
+    "carbSource": "mixed",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "amount": 400
+      },
+      {
+        "id": "chicken_broth",
+        "amount": 800
+      },
+      {
+        "id": "diced_tomatoes_canned",
+        "amount": 400
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 200
+      },
+      {
+        "id": "corn_kernels_frozen",
+        "amount": 150
+      },
+      {
+        "id": "corn_tortilla",
+        "amount": 4
+      },
+      {
+        "id": "lime",
+        "amount": 1
+      },
+      {
+        "id": "cilantro",
+        "amount": 10
+      },
+      {
+        "id": "cumin",
+        "amount": 4
+      },
+      {
+        "id": "chili_powder",
+        "amount": 4
+      }
+    ],
+    "instructions": [
+      "Bring chicken broth to a simmer in a large pot, add chicken breasts, and poach 15-18 minutes until cooked through.",
+      "Remove chicken, shred with two forks, and return to the pot.",
+      "Add diced tomatoes, black beans, corn, cumin, and chili powder, and simmer 15 minutes.",
+      "Meanwhile, slice corn tortillas into thin strips and toast in a dry skillet or oven at 375°F until crisp, about 8 minutes.",
+      "Ladle soup into bowls and top with tortilla strips, chopped cilantro, and a squeeze of lime."
+    ],
+    "macros": {
+      "kcal": 361,
+      "protein": 42,
+      "carbs": 38,
+      "fat": 6
+    }
+  },
+  {
+    "id": "lentil-vegetable-soup",
+    "name": "Lentil Vegetable Soup",
+    "category": "lunch",
+    "proteinSource": "plant",
+    "carbSource": "legume",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "lentils_cooked",
+        "amount": 400
+      },
+      {
+        "id": "carrot",
+        "amount": 3
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 1
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 2
+      },
+      {
+        "id": "diced_tomatoes_canned",
+        "amount": 400
+      },
+      {
+        "id": "chicken_broth",
+        "amount": 600
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      },
+      {
+        "id": "cumin",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot over medium heat, add diced onion and carrot, and cook 5-6 minutes until softened.",
+      "Add minced garlic and cumin and cook 30 seconds until fragrant.",
+      "Stir in diced tomatoes, broth, and cooked lentils.",
+      "Bring to a simmer and cook 20 minutes, stirring occasionally.",
+      "Season with salt and pepper to taste and serve hot."
+    ],
+    "macros": {
+      "kcal": 213,
+      "protein": 13,
+      "carbs": 32,
+      "fat": 5
+    }
+  },
+  {
+    "id": "steak-sweet-potato-bowl",
+    "name": "Steak and Sweet Potato Bowl",
+    "category": "lunch",
+    "proteinSource": "beef",
+    "carbSource": "potato",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "sirloin_steak",
+        "amount": 170
+      },
+      {
+        "id": "sweet_potato",
+        "amount": 1
+      },
+      {
+        "id": "spinach_fresh",
+        "amount": 40
+      },
+      {
+        "id": "balsamic_vinaigrette",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Pierce the sweet potato and microwave 6-8 minutes, or roast at 425°F for 40 minutes, until tender.",
+      "Season the steak with salt and pepper and sear in a hot skillet 3-4 minutes per side for medium, then rest 5 minutes.",
+      "Slice the steak against the grain and cube the sweet potato.",
+      "Arrange spinach, sweet potato, and steak in a bowl.",
+      "Drizzle with balsamic vinaigrette before serving."
+    ],
+    "macros": {
+      "kcal": 484,
+      "protein": 49,
+      "carbs": 29,
+      "fat": 18
+    }
+  },
+  {
+    "id": "tofu-quinoa-peanut-bowl",
+    "name": "Tofu Quinoa Bowl with Peanut Sauce",
+    "category": "lunch",
+    "proteinSource": "plant",
+    "carbSource": "quinoa",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "tofu_firm",
+        "amount": 300
+      },
+      {
+        "id": "quinoa_cooked",
+        "amount": 300
+      },
+      {
+        "id": "broccoli_florets",
+        "amount": 150
+      },
+      {
+        "id": "carrot",
+        "amount": 1
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 30
+      },
+      {
+        "id": "soy_sauce",
+        "amount": 20
+      },
+      {
+        "id": "lime",
+        "amount": 1
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Press tofu to remove excess water, then cube and pan-fry in a nonstick skillet over medium-high heat until golden, about 8 minutes.",
+      "Steam or microwave broccoli florets until tender-crisp, about 4 minutes.",
+      "Whisk peanut butter, soy sauce, minced garlic, and juice of the lime with a splash of water until smooth.",
+      "Divide quinoa between two bowls and top with tofu, broccoli, and shredded carrot.",
+      "Drizzle peanut sauce over each bowl before serving."
+    ],
+    "macros": {
+      "kcal": 540,
+      "protein": 36,
+      "carbs": 51,
+      "fat": 23
+    }
+  },
+  {
+    "id": "turkey-bacon-tomato-sandwich",
+    "name": "Turkey Bacon Tomato Sandwich",
+    "category": "lunch",
+    "proteinSource": "turkey",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "bacon_turkey",
+        "amount": 4
+      },
+      {
+        "id": "tomato",
+        "amount": 1
+      },
+      {
+        "id": "mixed_greens",
+        "amount": 20
+      },
+      {
+        "id": "mayo",
+        "amount": 15
+      },
+      {
+        "id": "whole_wheat_bread",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Cook turkey bacon in a skillet over medium heat until crisp, about 4-5 minutes per side.",
+      "Toast the bread slices.",
+      "Spread mayo on both slices of toast.",
+      "Layer turkey bacon, sliced tomato, and mixed greens on one slice.",
+      "Top with the second slice, cut in half, and serve."
+    ],
+    "macros": {
+      "kcal": 407,
+      "protein": 22,
+      "carbs": 35,
+      "fat": 21
+    }
+  },
+  {
+    "id": "veggie-egg-fried-rice",
+    "name": "Veggie Egg Fried Rice",
+    "category": "lunch",
+    "proteinSource": "egg",
+    "carbSource": "rice",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 3
+      },
+      {
+        "id": "white_rice_cooked",
+        "amount": 300
+      },
+      {
+        "id": "carrot",
+        "amount": 1
+      },
+      {
+        "id": "green_onion",
+        "amount": 2
+      },
+      {
+        "id": "edamame_frozen",
+        "amount": 100
+      },
+      {
+        "id": "soy_sauce",
+        "amount": 20
+      },
+      {
+        "id": "sesame_oil",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Heat sesame oil in a large skillet or wok over medium-high heat.",
+      "Add diced carrot and edamame and stir-fry 3-4 minutes until carrot softens.",
+      "Push vegetables to one side, crack eggs into the skillet, and scramble until just set.",
+      "Add the cooked rice and soy sauce, breaking up clumps, and stir-fry 4-5 minutes until heated through.",
+      "Stir in sliced green onion and serve hot."
+    ],
+    "macros": {
+      "kcal": 431,
+      "protein": 20,
+      "carbs": 52,
+      "fat": 15
+    }
+  },
+  {
+    "id": "black-bean-corn-burrito",
+    "name": "Black Bean and Corn Burrito",
+    "category": "lunch",
+    "proteinSource": "plant",
+    "carbSource": "mixed",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "flour_tortilla",
+        "amount": 2
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 200
+      },
+      {
+        "id": "corn_kernels_frozen",
+        "amount": 100
+      },
+      {
+        "id": "white_rice_cooked",
+        "amount": 150
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 50
+      },
+      {
+        "id": "salsa",
+        "amount": 60
+      },
+      {
+        "id": "sour_cream",
+        "amount": 30
+      }
+    ],
+    "instructions": [
+      "Warm the black beans and corn together in a skillet over medium heat for 4-5 minutes.",
+      "Warm the rice and tortillas separately.",
+      "Layer rice, bean and corn mixture, shredded cheddar, salsa, and sour cream down the center of each tortilla.",
+      "Fold in the sides and roll tightly into a burrito.",
+      "Warm the assembled burritos seam-side down in a dry skillet 1-2 minutes to seal, if desired."
+    ],
+    "macros": {
+      "kcal": 554,
+      "protein": 24,
+      "carbs": 82,
+      "fat": 16
+    }
+  },
+  {
+    "id": "cobb-salad-with-ranch",
+    "name": "Cobb Salad with Ranch",
+    "category": "lunch",
+    "proteinSource": "mixed",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "mixed_greens",
+        "amount": 80
+      },
+      {
+        "id": "rotisserie_chicken_shredded",
+        "amount": 100
+      },
+      {
+        "id": "egg_large",
+        "amount": 1
+      },
+      {
+        "id": "bacon_turkey",
+        "amount": 2
+      },
+      {
+        "id": "avocado",
+        "amount": 0.5
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 20
+      },
+      {
+        "id": "cherry_tomatoes",
+        "amount": 60
+      },
+      {
+        "id": "ranch_dressing",
+        "amount": 30
+      }
+    ],
+    "instructions": [
+      "Hard boil the egg: cover with water, bring to a boil, remove from heat, cover, and let sit 11 minutes, then cool, peel, and quarter.",
+      "Cook turkey bacon in a skillet until crisp, about 4-5 minutes, then chop.",
+      "Arrange mixed greens on a plate.",
+      "Top with rows of shredded chicken, chopped bacon, halved cherry tomatoes, diced avocado, quartered egg, and shredded cheddar.",
+      "Drizzle with ranch dressing before serving."
+    ],
+    "macros": {
+      "kcal": 658,
+      "protein": 48,
+      "carbs": 14,
+      "fat": 47
+    }
+  },
+  {
+    "id": "greek-yogurt-berry-bowl",
+    "name": "Greek Yogurt Berry Bowl",
+    "category": "snack",
+    "proteinSource": "dairy",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 170
+      },
+      {
+        "id": "blueberries",
+        "amount": 75
+      },
+      {
+        "id": "honey",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Spoon the Greek yogurt into a bowl.",
+      "Top with fresh blueberries.",
+      "Drizzle with honey and serve immediately."
+    ],
+    "macros": {
+      "kcal": 197,
+      "protein": 18,
+      "carbs": 26,
+      "fat": 4
+    }
+  },
+  {
+    "id": "pineapple-cottage-cheese-bowl",
+    "name": "Pineapple Cottage Cheese Bowl",
+    "category": "snack",
+    "proteinSource": "dairy",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cottage_cheese_2pct",
+        "amount": 170
+      },
+      {
+        "id": "pineapple_chunks",
+        "amount": 100
+      }
+    ],
+    "instructions": [
+      "Drain the pineapple chunks if using canned, or measure out fresh chunks.",
+      "Spoon cottage cheese into a bowl.",
+      "Top with the pineapple chunks and serve chilled."
+    ],
+    "macros": {
+      "kcal": 193,
+      "protein": 19,
+      "carbs": 20,
+      "fat": 4
+    }
+  },
+  {
+    "id": "string-cheese-whole-wheat-crackers",
+    "name": "String Cheese and Whole Wheat Crackers",
+    "category": "snack",
+    "proteinSource": "dairy",
+    "carbSource": "mixed",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "string_cheese",
+        "amount": 1
+      },
+      {
+        "id": "crackers_wheat",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Unwrap the string cheese and peel into strips if desired.",
+      "Portion the crackers onto a small plate.",
+      "Serve the crackers alongside the string cheese."
+    ],
+    "macros": {
+      "kcal": 174,
+      "protein": 9,
+      "carbs": 15,
+      "fat": 10
+    }
+  },
+  {
+    "id": "protein-bar-and-apple",
+    "name": "Protein Bar and Apple",
+    "category": "snack",
+    "proteinSource": "protein_powder",
+    "carbSource": "mixed",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "protein_bar",
+        "amount": 1
+      },
+      {
+        "id": "apple",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Unwrap the protein bar.",
+      "Wash the apple and slice into wedges if desired.",
+      "Pack both together for a grab-and-go snack."
+    ],
+    "macros": {
+      "kcal": 295,
+      "protein": 21,
+      "carbs": 47,
+      "fat": 7
+    }
+  },
+  {
+    "id": "hummus-veggie-dippers",
+    "name": "Hummus and Veggie Dippers",
+    "category": "snack",
+    "proteinSource": "plant",
+    "carbSource": "legume",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "hummus",
+        "amount": 60
+      },
+      {
+        "id": "carrot",
+        "amount": 1
+      },
+      {
+        "id": "cucumber",
+        "amount": 0.5
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Spoon hummus into a small bowl.",
+      "Cut carrot, cucumber, and bell pepper into sticks.",
+      "Arrange the vegetables around the hummus for dipping."
+    ],
+    "macros": {
+      "kcal": 162,
+      "protein": 7,
+      "carbs": 24,
+      "fat": 6
+    }
+  },
+  {
+    "id": "trail-mix",
+    "name": "Trail Mix",
+    "category": "snack",
+    "proteinSource": "plant",
+    "carbSource": "mixed",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "almonds",
+        "amount": 60
+      },
+      {
+        "id": "walnuts",
+        "amount": 40
+      },
+      {
+        "id": "raisins",
+        "amount": 40
+      },
+      {
+        "id": "dark_chocolate_chunk",
+        "amount": 30
+      }
+    ],
+    "instructions": [
+      "Combine almonds, walnuts, raisins, and chopped dark chocolate in a bowl.",
+      "Toss to mix evenly.",
+      "Divide into 4 portions and store in small bags or containers."
+    ],
+    "macros": {
+      "kcal": 227,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 17
+    }
+  },
+  {
+    "id": "classic-deviled-eggs",
+    "name": "Classic Deviled Eggs",
+    "category": "snack",
+    "proteinSource": "egg",
+    "carbSource": "none",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 4
+      },
+      {
+        "id": "mayo",
+        "amount": 30
+      },
+      {
+        "id": "mustard",
+        "amount": 10
+      },
+      {
+        "id": "paprika",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Place eggs in a pot, cover with water, bring to a boil, then remove from heat and let sit covered for 11 minutes.",
+      "Cool eggs in ice water, then peel and slice in half lengthwise.",
+      "Scoop yolks into a bowl and mash with mayo and mustard until smooth.",
+      "Spoon or pipe the yolk mixture back into the egg white halves.",
+      "Sprinkle with paprika and serve chilled."
+    ],
+    "macros": {
+      "kcal": 251,
+      "protein": 13,
+      "carbs": 1,
+      "fat": 21
+    }
+  },
+  {
+    "id": "peanut-butter-oat-energy-balls",
+    "name": "Peanut Butter Oat Energy Balls",
+    "category": "snack",
+    "proteinSource": "plant",
+    "carbSource": "oats",
+    "servings": 6,
+    "ingredients": [
+      {
+        "id": "rolled_oats",
+        "amount": 120
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 120
+      },
+      {
+        "id": "honey",
+        "amount": 60
+      },
+      {
+        "id": "chia_seeds",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Combine rolled oats, peanut butter, honey, and chia seeds in a bowl and stir until well mixed.",
+      "Chill the mixture in the fridge for 15 minutes to firm up.",
+      "Roll into 12 balls, about 1 tablespoon each.",
+      "Store in an airtight container in the fridge; serve 2 balls per portion."
+    ],
+    "macros": {
+      "kcal": 240,
+      "protein": 8,
+      "carbs": 27,
+      "fat": 12
+    }
+  },
+  {
+    "id": "apple-slices-with-almond-butter",
+    "name": "Apple Slices with Almond Butter",
+    "category": "snack",
+    "proteinSource": "plant",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "apple",
+        "amount": 1
+      },
+      {
+        "id": "almond_butter",
+        "amount": 20
+      }
+    ],
+    "instructions": [
+      "Wash and core the apple.",
+      "Slice the apple into wedges.",
+      "Serve with almond butter for dipping."
+    ],
+    "macros": {
+      "kcal": 218,
+      "protein": 5,
+      "carbs": 29,
+      "fat": 12
+    }
+  },
+  {
+    "id": "turkey-cheddar-roll-ups",
+    "name": "Turkey and String Cheese Roll-Ups",
+    "category": "snack",
+    "proteinSource": "turkey",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "deli_turkey_breast",
+        "amount": 90
+      },
+      {
+        "id": "string_cheese",
+        "amount": 1
+      },
+      {
+        "id": "mustard",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Lay turkey slices flat on a plate.",
+      "Place the string cheese (whole or split into strips) on each slice and roll up tightly.",
+      "Serve with mustard for dipping."
+    ],
+    "macros": {
+      "kcal": 177,
+      "protein": 23,
+      "carbs": 4,
+      "fat": 8
+    }
+  },
+  {
+    "id": "sea-salt-edamame",
+    "name": "Sea Salt Edamame",
+    "category": "snack",
+    "proteinSource": "plant",
+    "carbSource": "legume",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "edamame_frozen",
+        "amount": 150
+      },
+      {
+        "id": "salt",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Steam or microwave the frozen edamame in their pods according to package directions, about 5 minutes.",
+      "Drain and toss with salt while hot.",
+      "Serve warm, shelling pods as you eat."
+    ],
+    "macros": {
+      "kcal": 182,
+      "protein": 17,
+      "carbs": 13,
+      "fat": 8
+    }
+  },
+  {
+    "id": "pb-banana-rice-cakes",
+    "name": "Peanut Butter Banana Rice Cakes",
+    "category": "snack",
+    "proteinSource": "plant",
+    "carbSource": "rice",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "rice_cakes",
+        "amount": 2
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 24
+      },
+      {
+        "id": "banana",
+        "amount": 0.5
+      }
+    ],
+    "instructions": [
+      "Lay the rice cakes on a plate.",
+      "Spread peanut butter evenly over each rice cake.",
+      "Top with thin banana slices and serve immediately."
+    ],
+    "macros": {
+      "kcal": 264,
+      "protein": 8,
+      "carbs": 33,
+      "fat": 13
+    }
+  },
+  {
+    "id": "quick-vanilla-protein-shake",
+    "name": "Quick Vanilla Protein Shake",
+    "category": "snack",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 250
+      }
+    ],
+    "instructions": [
+      "Add protein powder and milk to a shaker bottle.",
+      "Shake vigorously for 20-30 seconds until smooth.",
+      "Serve over ice."
+    ],
+    "macros": {
+      "kcal": 245,
+      "protein": 32,
+      "carbs": 15,
+      "fat": 7
+    }
+  },
+  {
+    "id": "hard-boiled-eggs-string-cheese-plate",
+    "name": "Hard-Boiled Eggs and String Cheese Plate",
+    "category": "snack",
+    "proteinSource": "egg",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "string_cheese",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Place eggs in a pot, cover with water, bring to a boil, then remove from heat and let sit covered for 11 minutes.",
+      "Cool eggs in ice water, then peel.",
+      "Serve the eggs alongside the string cheese."
+    ],
+    "macros": {
+      "kcal": 224,
+      "protein": 20,
+      "carbs": 2,
+      "fat": 16
+    }
+  },
+  {
+    "id": "savory-cottage-cheese-tomato-bowl",
+    "name": "Savory Cottage Cheese and Tomato Bowl",
+    "category": "snack",
+    "proteinSource": "dairy",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cottage_cheese_4pct",
+        "amount": 170
+      },
+      {
+        "id": "cherry_tomatoes",
+        "amount": 80
+      },
+      {
+        "id": "black_pepper",
+        "amount": 0.5
+      },
+      {
+        "id": "olive_oil",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Spoon cottage cheese into a bowl.",
+      "Top with halved cherry tomatoes.",
+      "Drizzle with olive oil and finish with a crack of black pepper."
+    ],
+    "macros": {
+      "kcal": 226,
+      "protein": 19,
+      "carbs": 9,
+      "fat": 12
+    }
+  },
+  {
+    "id": "greek-yogurt-granola-honey-bowl",
+    "name": "Greek Yogurt Granola Honey Bowl",
+    "category": "snack",
+    "proteinSource": "dairy",
+    "carbSource": "mixed",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 170
+      },
+      {
+        "id": "granola",
+        "amount": 30
+      },
+      {
+        "id": "honey",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Spoon the Greek yogurt into a bowl.",
+      "Sprinkle granola on top.",
+      "Drizzle with honey and serve immediately."
+    ],
+    "macros": {
+      "kcal": 296,
+      "protein": 20,
+      "carbs": 34,
+      "fat": 9
+    }
+  },
+  {
+    "id": "olive-oil-sea-salt-popcorn",
+    "name": "Olive Oil Sea Salt Popcorn",
+    "category": "snack",
+    "proteinSource": "none",
+    "carbSource": "mixed",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "popcorn_kernels",
+        "amount": 60
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      },
+      {
+        "id": "salt",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot over medium heat and add a few popcorn kernels as a test.",
+      "Once the test kernels pop, add the remaining kernels in an even layer, cover, and shake occasionally.",
+      "Cook until popping slows to about 2 seconds between pops, then remove from heat.",
+      "Season with salt, toss, and divide into 2 portions."
+    ],
+    "macros": {
+      "kcal": 179,
+      "protein": 4,
+      "carbs": 23,
+      "fat": 9
+    }
+  },
+  {
+    "id": "turkey-hummus-pita-snack-plate",
+    "name": "Turkey, Hummus, and Pita Snack Plate",
+    "category": "snack",
+    "proteinSource": "turkey",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "deli_turkey_breast",
+        "amount": 60
+      },
+      {
+        "id": "hummus",
+        "amount": 40
+      },
+      {
+        "id": "pita_bread",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Cut the pita bread into wedges.",
+      "Arrange turkey slices and hummus on a small plate alongside the pita wedges.",
+      "Dip pita and turkey into the hummus to eat."
+    ],
+    "macros": {
+      "kcal": 299,
+      "protein": 20,
+      "carbs": 43,
+      "fat": 6
+    }
+  },
+  {
+    "id": "cheddar-apple-snack-plate",
+    "name": "Cheddar and Apple Snack Plate",
+    "category": "snack",
+    "proteinSource": "dairy",
+    "carbSource": "fruit",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cheddar_shredded",
+        "amount": 30
+      },
+      {
+        "id": "apple",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Wash the apple and slice into wedges.",
+      "Portion the shredded cheddar into a small bowl or cluster on a plate.",
+      "Arrange the cheddar alongside the apple slices and serve."
+    ],
+    "macros": {
+      "kcal": 216,
+      "protein": 8,
+      "carbs": 25,
+      "fat": 10
+    }
+  },
+  {
+    "id": "chocolate-cottage-cheese-protein-pudding",
+    "name": "Chocolate Cottage Cheese Protein Pudding",
+    "category": "snack",
+    "proteinSource": "dairy",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cottage_cheese_4pct",
+        "amount": 170
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 10
+      },
+      {
+        "id": "honey",
+        "amount": 15
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Combine cottage cheese, cocoa powder, honey, and vanilla extract in a blender.",
+      "Blend until completely smooth, scraping down the sides as needed.",
+      "Chill for 10 minutes before serving for a thicker, pudding-like texture."
+    ],
+    "macros": {
+      "kcal": 241,
+      "protein": 21,
+      "carbs": 24,
+      "fat": 9
+    }
+  },
+  {
+    "id": "sheet-pan-garlic-chicken-thighs-sweet-potato-broccoli",
+    "name": "Sheet-Pan Garlic Chicken Thighs with Sweet Potato & Broccoli",
+    "category": "dinner",
+    "proteinSource": "chicken",
+    "carbSource": "potato",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "chicken_thigh_boneless",
+        "amount": 680
+      },
+      {
+        "id": "sweet_potato",
+        "amount": 3
+      },
+      {
+        "id": "broccoli_florets",
+        "amount": 300
+      },
+      {
+        "id": "olive_oil",
+        "amount": 30
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 4
+      },
+      {
+        "id": "paprika",
+        "amount": 4
+      },
+      {
+        "id": "salt",
+        "amount": 4
+      },
+      {
+        "id": "black_pepper",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 425F and line a large sheet pan with foil.",
+      "Cut sweet potatoes into 1-inch chunks and mince the garlic.",
+      "Toss chicken thighs, sweet potato, and broccoli with olive oil, garlic, paprika, salt, and pepper directly on the pan.",
+      "Spread everything in a single layer, chicken skin-side up.",
+      "Roast 30-35 minutes, flipping vegetables halfway, until chicken reaches 165F internal and potatoes are fork-tender.",
+      "Let rest 5 minutes, then divide between 4 plates."
+    ],
+    "macros": {
+      "kcal": 540,
+      "protein": 48,
+      "carbs": 26,
+      "fat": 27
+    }
+  },
+  {
+    "id": "honey-mustard-pork-tenderloin-roasted-potatoes-carrots",
+    "name": "Honey Mustard Pork Tenderloin with Roasted Potatoes & Carrots",
+    "category": "dinner",
+    "proteinSource": "pork",
+    "carbSource": "potato",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "pork_tenderloin",
+        "amount": 680
+      },
+      {
+        "id": "russet_potato",
+        "amount": 2
+      },
+      {
+        "id": "carrot",
+        "amount": 4
+      },
+      {
+        "id": "olive_oil",
+        "amount": 20
+      },
+      {
+        "id": "honey",
+        "amount": 20
+      },
+      {
+        "id": "dijon_mustard",
+        "amount": 20
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "salt",
+        "amount": 3
+      },
+      {
+        "id": "black_pepper",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400F. Cut potatoes into wedges and carrots into 2-inch sticks.",
+      "Toss potatoes and carrots with half the olive oil, salt, and pepper on a sheet pan; roast 10 minutes.",
+      "Meanwhile whisk honey, dijon mustard, minced garlic, and remaining olive oil in a small bowl.",
+      "Season pork tenderloin with salt and pepper, then brush generously with the honey-mustard mixture.",
+      "Push vegetables to the sides, add pork to the center of the pan, and roast 20-25 minutes until pork reaches 145F internal.",
+      "Rest pork 5 minutes, slice, and serve with the roasted vegetables."
+    ],
+    "macros": {
+      "kcal": 419,
+      "protein": 47,
+      "carbs": 30,
+      "fat": 11
+    }
+  },
+  {
+    "id": "one-pan-lemon-herb-salmon-rice-broccoli",
+    "name": "One-Pan Lemon Herb Salmon with Rice & Broccoli",
+    "category": "dinner",
+    "proteinSource": "fish",
+    "carbSource": "rice",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "salmon_fillet",
+        "amount": 680
+      },
+      {
+        "id": "white_rice_cooked",
+        "amount": 500
+      },
+      {
+        "id": "broccoli_florets",
+        "amount": 300
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      },
+      {
+        "id": "lemon",
+        "amount": 2
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "italian_seasoning",
+        "amount": 5
+      },
+      {
+        "id": "salt",
+        "amount": 3
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400F and line a sheet pan with foil.",
+      "Arrange broccoli florets on the pan, drizzle with half the olive oil, minced garlic, and a pinch of salt.",
+      "Nestle salmon fillets among the broccoli, drizzle with remaining oil, sprinkle with italian seasoning and salt, and top each fillet with a lemon slice.",
+      "Bake 12-15 minutes until salmon flakes easily with a fork and broccoli is tender-crisp.",
+      "Warm the cooked rice and squeeze fresh lemon juice over everything before serving.",
+      "Divide rice, salmon, and broccoli evenly across 4 plates."
+    ],
+    "macros": {
+      "kcal": 590,
+      "protein": 40,
+      "carbs": 44,
+      "fat": 27
+    }
+  },
+  {
+    "id": "chicken-broccoli-stir-fry-rice",
+    "name": "Chicken and Broccoli Stir-Fry with Rice",
+    "category": "dinner",
+    "proteinSource": "chicken",
+    "carbSource": "rice",
+    "servings": 3,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "amount": 450
+      },
+      {
+        "id": "broccoli_florets",
+        "amount": 300
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 2
+      },
+      {
+        "id": "carrot",
+        "amount": 2
+      },
+      {
+        "id": "soy_sauce",
+        "amount": 45
+      },
+      {
+        "id": "sesame_oil",
+        "amount": 10
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "cornstarch",
+        "amount": 10
+      },
+      {
+        "id": "white_rice_cooked",
+        "amount": 450
+      },
+      {
+        "id": "green_onion",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Slice chicken breast into thin strips and toss with cornstarch.",
+      "Heat sesame oil in a large wok or skillet over high heat.",
+      "Add chicken and stir-fry 4-5 minutes until browned and cooked through; remove and set aside.",
+      "Add broccoli, sliced bell pepper, and carrot to the pan; stir-fry 4-5 minutes until crisp-tender.",
+      "Return chicken to the pan, add minced garlic and soy sauce, and toss 1-2 minutes until glossy.",
+      "Serve over warm white rice, garnished with sliced green onion."
+    ],
+    "macros": {
+      "kcal": 571,
+      "protein": 56,
+      "carbs": 63,
+      "fat": 10
+    }
+  },
+  {
+    "id": "beef-bell-pepper-stir-fry-rice",
+    "name": "Beef and Bell Pepper Stir-Fry with Rice",
+    "category": "dinner",
+    "proteinSource": "beef",
+    "carbSource": "rice",
+    "servings": 3,
+    "ingredients": [
+      {
+        "id": "sirloin_steak",
+        "amount": 450
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 3
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 1
+      },
+      {
+        "id": "soy_sauce",
+        "amount": 40
+      },
+      {
+        "id": "sesame_oil",
+        "amount": 10
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "cornstarch",
+        "amount": 10
+      },
+      {
+        "id": "white_rice_cooked",
+        "amount": 450
+      }
+    ],
+    "instructions": [
+      "Slice sirloin steak thinly against the grain and toss with cornstarch.",
+      "Heat sesame oil in a wok over high heat until shimmering.",
+      "Sear beef in a single layer 2-3 minutes per side until browned; remove and set aside.",
+      "Add sliced bell peppers and onion to the pan, stir-fry 4-5 minutes until crisp-tender.",
+      "Return beef to the pan with minced garlic and soy sauce; toss 1-2 minutes to combine and thicken slightly.",
+      "Serve hot over white rice."
+    ],
+    "macros": {
+      "kcal": 568,
+      "protein": 47,
+      "carbs": 57,
+      "fat": 15
+    }
+  },
+  {
+    "id": "shrimp-vegetable-stir-fry-rice",
+    "name": "Shrimp and Vegetable Stir-Fry with Rice",
+    "category": "dinner",
+    "proteinSource": "shellfish",
+    "carbSource": "rice",
+    "servings": 3,
+    "ingredients": [
+      {
+        "id": "shrimp_raw",
+        "amount": 450
+      },
+      {
+        "id": "broccoli_florets",
+        "amount": 200
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 2
+      },
+      {
+        "id": "carrot",
+        "amount": 2
+      },
+      {
+        "id": "soy_sauce",
+        "amount": 40
+      },
+      {
+        "id": "sesame_oil",
+        "amount": 10
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "cornstarch",
+        "amount": 8
+      },
+      {
+        "id": "brown_rice_cooked",
+        "amount": 450
+      }
+    ],
+    "instructions": [
+      "Pat shrimp dry and toss with cornstarch.",
+      "Heat sesame oil in a large skillet over high heat.",
+      "Cook shrimp 1-2 minutes per side until pink and opaque; remove and set aside.",
+      "Add broccoli, bell pepper, and carrot to the pan; stir-fry 4-5 minutes until crisp-tender.",
+      "Return shrimp to the pan, add minced garlic and soy sauce, and toss 1 minute until well coated.",
+      "Serve over warm brown rice."
+    ],
+    "macros": {
+      "kcal": 444,
+      "protein": 44,
+      "carbs": 56,
+      "fat": 6
+    }
+  },
+  {
+    "id": "turkey-vegetable-stir-fry-quinoa",
+    "name": "Turkey and Vegetable Stir-Fry with Quinoa",
+    "category": "dinner",
+    "proteinSource": "turkey",
+    "carbSource": "quinoa",
+    "servings": 3,
+    "ingredients": [
+      {
+        "id": "ground_turkey_99",
+        "amount": 450
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 2
+      },
+      {
+        "id": "zucchini",
+        "amount": 1
+      },
+      {
+        "id": "carrot",
+        "amount": 2
+      },
+      {
+        "id": "soy_sauce",
+        "amount": 35
+      },
+      {
+        "id": "sesame_oil",
+        "amount": 8
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 2
+      },
+      {
+        "id": "quinoa_cooked",
+        "amount": 450
+      }
+    ],
+    "instructions": [
+      "Heat sesame oil in a large skillet over medium-high heat.",
+      "Add ground turkey and cook 6-7 minutes, breaking it apart, until browned and no longer pink.",
+      "Add diced zucchini, bell pepper, and carrot; cook 4-5 minutes until vegetables soften.",
+      "Stir in minced garlic and soy sauce, and cook 1-2 minutes more.",
+      "Fluff the cooked quinoa and divide among bowls.",
+      "Top with the turkey and vegetable mixture."
+    ],
+    "macros": {
+      "kcal": 440,
+      "protein": 50,
+      "carbs": 43,
+      "fat": 8
+    }
+  },
+  {
+    "id": "creamy-garlic-parmesan-chicken-pasta",
+    "name": "Creamy Garlic Parmesan Chicken Pasta",
+    "category": "dinner",
+    "proteinSource": "chicken",
+    "carbSource": "pasta",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "amount": 500
+      },
+      {
+        "id": "whole_wheat_pasta_dry",
+        "amount": 320
+      },
+      {
+        "id": "half_and_half",
+        "amount": 200
+      },
+      {
+        "id": "parmesan_grated",
+        "amount": 60
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 4
+      },
+      {
+        "id": "spinach_fresh",
+        "amount": 100
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      },
+      {
+        "id": "salt",
+        "amount": 3
+      },
+      {
+        "id": "black_pepper",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Cook whole wheat pasta in salted boiling water according to package directions; drain, reserving 1/2 cup pasta water.",
+      "Meanwhile, season chicken breast with salt and pepper and slice into strips.",
+      "Heat olive oil in a large skillet over medium-high heat and cook chicken 5-6 minutes until browned and cooked through; remove and set aside.",
+      "Lower heat to medium, add minced garlic, and cook 30 seconds until fragrant.",
+      "Pour in half and half, whisk in parmesan, and simmer 2-3 minutes until slightly thickened, thinning with reserved pasta water as needed.",
+      "Stir in spinach until wilted, then return chicken and drained pasta to the skillet and toss to coat.",
+      "Season to taste and serve immediately."
+    ],
+    "macros": {
+      "kcal": 658,
+      "protein": 58,
+      "carbs": 62,
+      "fat": 20
+    }
+  },
+  {
+    "id": "turkey-bolognese-whole-wheat-pasta",
+    "name": "Turkey Bolognese with Whole Wheat Pasta",
+    "category": "dinner",
+    "proteinSource": "turkey",
+    "carbSource": "pasta",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "ground_turkey_99",
+        "amount": 500
+      },
+      {
+        "id": "whole_wheat_pasta_dry",
+        "amount": 320
+      },
+      {
+        "id": "marinara_sauce",
+        "amount": 400
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 1
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "parmesan_grated",
+        "amount": 20
+      },
+      {
+        "id": "olive_oil",
+        "amount": 10
+      },
+      {
+        "id": "italian_seasoning",
+        "amount": 4
+      }
+    ],
+    "instructions": [
+      "Cook whole wheat pasta in salted boiling water according to package directions; drain.",
+      "Heat olive oil in a large saucepan over medium heat and saute diced onion 3-4 minutes until soft.",
+      "Add minced garlic and cook 30 seconds, then add ground turkey, breaking it up, and cook 6-7 minutes until browned.",
+      "Stir in marinara sauce and italian seasoning; simmer 10 minutes, stirring occasionally.",
+      "Toss the sauce with the cooked pasta.",
+      "Serve topped with grated parmesan."
+    ],
+    "macros": {
+      "kcal": 530,
+      "protein": 49,
+      "carbs": 68,
+      "fat": 9
+    }
+  },
+  {
+    "id": "shrimp-scampi-whole-wheat-pasta",
+    "name": "Shrimp Scampi with Whole Wheat Pasta",
+    "category": "dinner",
+    "proteinSource": "shellfish",
+    "carbSource": "pasta",
+    "servings": 3,
+    "ingredients": [
+      {
+        "id": "shrimp_raw",
+        "amount": 450
+      },
+      {
+        "id": "whole_wheat_pasta_dry",
+        "amount": 250
+      },
+      {
+        "id": "butter",
+        "amount": 20
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 5
+      },
+      {
+        "id": "lemon",
+        "amount": 1
+      },
+      {
+        "id": "parmesan_grated",
+        "amount": 20
+      },
+      {
+        "id": "cherry_tomatoes",
+        "amount": 150
+      },
+      {
+        "id": "salt",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Cook whole wheat pasta in salted boiling water according to package directions; drain, reserving 1/4 cup pasta water.",
+      "Pat shrimp dry and season lightly with salt.",
+      "Heat olive oil and butter in a large skillet over medium-high heat; add minced garlic and cook 30 seconds until fragrant.",
+      "Add shrimp and halved cherry tomatoes, cooking 2-3 minutes per side until shrimp are pink and opaque.",
+      "Squeeze in fresh lemon juice, add the drained pasta and a splash of reserved pasta water, and toss to combine.",
+      "Top with grated parmesan and serve."
+    ],
+    "macros": {
+      "kcal": 581,
+      "protein": 51,
+      "carbs": 65,
+      "fat": 15
+    }
+  },
+  {
+    "id": "skillet-beef-tomato-pasta",
+    "name": "One-Pot Skillet Beef and Tomato Pasta",
+    "category": "dinner",
+    "proteinSource": "beef",
+    "carbSource": "pasta",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "ground_beef_93",
+        "amount": 500
+      },
+      {
+        "id": "pasta_dry",
+        "amount": 320
+      },
+      {
+        "id": "diced_tomatoes_canned",
+        "amount": 400
+      },
+      {
+        "id": "marinara_sauce",
+        "amount": 200
+      },
+      {
+        "id": "mozzarella_shredded",
+        "amount": 100
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 1
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "italian_seasoning",
+        "amount": 5
+      },
+      {
+        "id": "chicken_broth",
+        "amount": 300
+      }
+    ],
+    "instructions": [
+      "Heat a large deep skillet over medium heat and cook diced onion 3-4 minutes until soft.",
+      "Add ground beef and minced garlic; cook 6-7 minutes, breaking apart, until browned. Drain excess fat.",
+      "Stir in diced tomatoes, marinara sauce, chicken broth, italian seasoning, and dry pasta.",
+      "Bring to a simmer, cover, and cook 12-15 minutes, stirring occasionally, until pasta is tender and liquid is mostly absorbed.",
+      "Sprinkle mozzarella over the top, cover, and let melt 2 minutes off heat.",
+      "Serve directly from the skillet."
+    ],
+    "macros": {
+      "kcal": 619,
+      "protein": 46,
+      "carbs": 72,
+      "fat": 15
+    }
+  },
+  {
+    "id": "chicken-tacos-corn-tortillas",
+    "name": "Chicken Tacos with Corn Tortillas",
+    "category": "dinner",
+    "proteinSource": "chicken",
+    "carbSource": "tortilla",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "chicken_breast",
+        "amount": 500
+      },
+      {
+        "id": "corn_tortilla",
+        "amount": 8
+      },
+      {
+        "id": "taco_seasoning",
+        "amount": 20
+      },
+      {
+        "id": "salsa",
+        "amount": 100
+      },
+      {
+        "id": "avocado",
+        "amount": 1
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 60
+      },
+      {
+        "id": "cilantro",
+        "amount": 10
+      },
+      {
+        "id": "lime",
+        "amount": 1
+      },
+      {
+        "id": "olive_oil",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Dice chicken breast into bite-size pieces and toss with taco seasoning.",
+      "Heat olive oil in a skillet over medium-high heat and cook chicken 6-7 minutes until browned and cooked through.",
+      "Warm corn tortillas in a dry skillet or directly over a gas flame, 20-30 seconds per side.",
+      "Slice the avocado and chop cilantro.",
+      "Fill tortillas with chicken, top with salsa, cheddar, avocado, and cilantro.",
+      "Squeeze fresh lime juice over the tacos before serving."
+    ],
+    "macros": {
+      "kcal": 481,
+      "protein": 47,
+      "carbs": 32,
+      "fat": 19
+    }
+  },
+  {
+    "id": "beef-burrito-bowl-rice-black-beans",
+    "name": "Beef Burrito Bowl with Rice & Black Beans",
+    "category": "dinner",
+    "proteinSource": "beef",
+    "carbSource": "rice",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "ground_beef_93",
+        "amount": 450
+      },
+      {
+        "id": "white_rice_cooked",
+        "amount": 400
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 300
+      },
+      {
+        "id": "corn_kernels_frozen",
+        "amount": 150
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 80
+      },
+      {
+        "id": "salsa",
+        "amount": 100
+      },
+      {
+        "id": "sour_cream",
+        "amount": 60
+      },
+      {
+        "id": "lime",
+        "amount": 1
+      },
+      {
+        "id": "cilantro",
+        "amount": 10
+      },
+      {
+        "id": "taco_seasoning",
+        "amount": 15
+      }
+    ],
+    "instructions": [
+      "Brown ground beef in a skillet over medium-high heat, 6-7 minutes, breaking it apart.",
+      "Stir in taco seasoning and a splash of water; simmer 2 minutes.",
+      "Warm the black beans and corn in a small saucepan.",
+      "Divide rice among 4 bowls, then top with seasoned beef, black beans, and corn.",
+      "Add cheddar, a spoonful of salsa, and sour cream to each bowl.",
+      "Garnish with chopped cilantro and a squeeze of lime juice."
+    ],
+    "macros": {
+      "kcal": 568,
+      "protein": 40,
+      "carbs": 60,
+      "fat": 19
+    }
+  },
+  {
+    "id": "shrimp-tacos-avocado-lime-slaw",
+    "name": "Shrimp Tacos with Avocado Lime Slaw",
+    "category": "dinner",
+    "proteinSource": "shellfish",
+    "carbSource": "tortilla",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "shrimp_raw",
+        "amount": 450
+      },
+      {
+        "id": "corn_tortilla",
+        "amount": 8
+      },
+      {
+        "id": "mixed_greens",
+        "amount": 100
+      },
+      {
+        "id": "avocado",
+        "amount": 1
+      },
+      {
+        "id": "lime",
+        "amount": 2
+      },
+      {
+        "id": "sour_cream",
+        "amount": 40
+      },
+      {
+        "id": "cilantro",
+        "amount": 10
+      },
+      {
+        "id": "chili_powder",
+        "amount": 5
+      },
+      {
+        "id": "cumin",
+        "amount": 3
+      },
+      {
+        "id": "olive_oil",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Toss shrimp with chili powder, cumin, and a pinch of salt.",
+      "Heat olive oil in a skillet over medium-high heat and cook shrimp 1-2 minutes per side until pink and opaque.",
+      "Mash half the avocado with sour cream, lime juice, and chopped cilantro to make a crema; slice remaining avocado.",
+      "Warm corn tortillas in a dry skillet, 20-30 seconds per side.",
+      "Fill tortillas with mixed greens, shrimp, and sliced avocado.",
+      "Drizzle with the avocado-lime crema and serve with lime wedges."
+    ],
+    "macros": {
+      "kcal": 338,
+      "protein": 32,
+      "carbs": 31,
+      "fat": 12
+    }
+  },
+  {
+    "id": "turkey-taco-bowl-quinoa-black-beans",
+    "name": "Turkey Taco Bowl with Quinoa & Black Beans",
+    "category": "dinner",
+    "proteinSource": "turkey",
+    "carbSource": "quinoa",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "ground_turkey_99",
+        "amount": 450
+      },
+      {
+        "id": "quinoa_cooked",
+        "amount": 400
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 250
+      },
+      {
+        "id": "corn_kernels_frozen",
+        "amount": 150
+      },
+      {
+        "id": "salsa",
+        "amount": 100
+      },
+      {
+        "id": "avocado",
+        "amount": 1
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 60
+      },
+      {
+        "id": "taco_seasoning",
+        "amount": 15
+      },
+      {
+        "id": "lime",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Cook ground turkey in a skillet over medium-high heat, 6-7 minutes, breaking it apart, until browned.",
+      "Stir in taco seasoning and a splash of water; simmer 2 minutes.",
+      "Warm black beans and corn together in a small saucepan.",
+      "Divide quinoa among 4 bowls and top with seasoned turkey, black beans, and corn.",
+      "Add sliced avocado and shredded cheddar.",
+      "Top with salsa and a squeeze of lime juice."
+    ],
+    "macros": {
+      "kcal": 515,
+      "protein": 47,
+      "carbs": 52,
+      "fat": 14
+    }
+  },
+  {
+    "id": "grilled-sirloin-steak-roasted-potatoes-salad",
+    "name": "Grilled Sirloin Steak with Roasted Potatoes & Salad",
+    "category": "dinner",
+    "proteinSource": "beef",
+    "carbSource": "potato",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "sirloin_steak",
+        "amount": 450
+      },
+      {
+        "id": "russet_potato",
+        "amount": 2
+      },
+      {
+        "id": "olive_oil",
+        "amount": 20
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 2
+      },
+      {
+        "id": "mixed_greens",
+        "amount": 100
+      },
+      {
+        "id": "cherry_tomatoes",
+        "amount": 100
+      },
+      {
+        "id": "balsamic_vinaigrette",
+        "amount": 30
+      },
+      {
+        "id": "butter",
+        "amount": 10
+      },
+      {
+        "id": "salt",
+        "amount": 3
+      },
+      {
+        "id": "black_pepper",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 425F. Cut potatoes into wedges, toss with half the olive oil, salt, and pepper, and roast 25-30 minutes, flipping once, until golden and tender.",
+      "Season steak generously with salt and pepper.",
+      "Heat remaining olive oil in a cast-iron skillet over high heat until smoking.",
+      "Sear steak 3-4 minutes per side for medium-rare, adding butter and minced garlic in the last minute and basting.",
+      "Rest steak 5 minutes, then slice against the grain.",
+      "Toss mixed greens and cherry tomatoes with balsamic vinaigrette and serve alongside the steak and potatoes."
+    ],
+    "macros": {
+      "kcal": 766,
+      "protein": 67,
+      "carbs": 43,
+      "fat": 35
+    }
+  },
+  {
+    "id": "baked-tilapia-quinoa-roasted-broccoli",
+    "name": "Baked Tilapia with Quinoa & Roasted Broccoli",
+    "category": "dinner",
+    "proteinSource": "fish",
+    "carbSource": "quinoa",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "tilapia_fillet",
+        "amount": 340
+      },
+      {
+        "id": "quinoa_cooked",
+        "amount": 300
+      },
+      {
+        "id": "broccoli_florets",
+        "amount": 200
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      },
+      {
+        "id": "lemon",
+        "amount": 1
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 2
+      },
+      {
+        "id": "panko_breadcrumbs",
+        "amount": 30
+      },
+      {
+        "id": "paprika",
+        "amount": 3
+      },
+      {
+        "id": "salt",
+        "amount": 2
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400F and line a baking sheet with parchment.",
+      "Toss broccoli with half the olive oil and a pinch of salt; spread on one side of the pan.",
+      "Mix panko, remaining olive oil, minced garlic, paprika, and salt; press onto the top of the tilapia fillets.",
+      "Place tilapia on the other side of the pan and bake 12-15 minutes until fish flakes easily and topping is golden.",
+      "Fluff the quinoa and divide between two plates.",
+      "Top with tilapia and roasted broccoli, and finish with a squeeze of fresh lemon."
+    ],
+    "macros": {
+      "kcal": 518,
+      "protein": 46,
+      "carbs": 54,
+      "fat": 14
+    }
+  },
+  {
+    "id": "beef-black-bean-chili",
+    "name": "Beef and Black Bean Chili",
+    "category": "dinner",
+    "proteinSource": "beef",
+    "carbSource": "legume",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "ground_beef_93",
+        "amount": 500
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 400
+      },
+      {
+        "id": "diced_tomatoes_canned",
+        "amount": 400
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 1
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 1
+      },
+      {
+        "id": "chili_powder",
+        "amount": 15
+      },
+      {
+        "id": "cumin",
+        "amount": 8
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "chicken_broth",
+        "amount": 200
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 40
+      }
+    ],
+    "instructions": [
+      "Heat a large pot over medium heat and cook diced onion and bell pepper 4-5 minutes until softened.",
+      "Add ground beef and minced garlic; cook 6-7 minutes, breaking apart, until browned.",
+      "Stir in chili powder and cumin; cook 1 minute until fragrant.",
+      "Add diced tomatoes, black beans, and chicken broth; bring to a simmer.",
+      "Reduce heat and simmer uncovered 20-25 minutes, stirring occasionally, until thickened.",
+      "Ladle into bowls and top with shredded cheddar."
+    ],
+    "macros": {
+      "kcal": 424,
+      "protein": 41,
+      "carbs": 36,
+      "fat": 14
+    }
+  },
+  {
+    "id": "turkey-chili",
+    "name": "Turkey Chili",
+    "category": "dinner",
+    "proteinSource": "turkey",
+    "carbSource": "legume",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "ground_turkey_99",
+        "amount": 500
+      },
+      {
+        "id": "black_beans_canned",
+        "amount": 300
+      },
+      {
+        "id": "chickpeas_canned",
+        "amount": 200
+      },
+      {
+        "id": "diced_tomatoes_canned",
+        "amount": 400
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 1
+      },
+      {
+        "id": "chili_powder",
+        "amount": 12
+      },
+      {
+        "id": "cumin",
+        "amount": 6
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "chicken_broth",
+        "amount": 150
+      },
+      {
+        "id": "olive_oil",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot over medium heat and cook diced onion 3-4 minutes until soft.",
+      "Add ground turkey and minced garlic; cook 6-7 minutes, breaking it apart, until browned.",
+      "Stir in chili powder and cumin; cook 1 minute until fragrant.",
+      "Add diced tomatoes, black beans, chickpeas, and chicken broth.",
+      "Bring to a simmer and cook uncovered 20 minutes, stirring occasionally.",
+      "Season to taste and serve hot."
+    ],
+    "macros": {
+      "kcal": 390,
+      "protein": 47,
+      "carbs": 39,
+      "fat": 6
+    }
+  },
+  {
+    "id": "lentil-vegetable-stew",
+    "name": "Lentil and Vegetable Stew",
+    "category": "dinner",
+    "proteinSource": "plant",
+    "carbSource": "legume",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "lentils_cooked",
+        "amount": 600
+      },
+      {
+        "id": "carrot",
+        "amount": 3
+      },
+      {
+        "id": "onion_yellow",
+        "amount": 1
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "diced_tomatoes_canned",
+        "amount": 400
+      },
+      {
+        "id": "chicken_broth",
+        "amount": 300
+      },
+      {
+        "id": "cumin",
+        "amount": 5
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      },
+      {
+        "id": "spinach_fresh",
+        "amount": 100
+      }
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot over medium heat and saute diced onion and carrot 5 minutes until softened.",
+      "Add minced garlic and cumin; cook 1 minute until fragrant.",
+      "Stir in cooked lentils, diced tomatoes, and broth; bring to a simmer.",
+      "Cover and simmer 15-20 minutes, stirring occasionally, until vegetables are tender and stew has thickened.",
+      "Stir in spinach and cook 2 minutes until wilted.",
+      "Season to taste with salt and pepper before serving."
+    ],
+    "macros": {
+      "kcal": 275,
+      "protein": 17,
+      "carbs": 44,
+      "fat": 5
+    }
+  },
+  {
+    "id": "tofu-vegetable-stir-fry-rice",
+    "name": "Tofu and Vegetable Stir-Fry with Rice",
+    "category": "dinner",
+    "proteinSource": "plant",
+    "carbSource": "rice",
+    "servings": 3,
+    "ingredients": [
+      {
+        "id": "tofu_firm",
+        "amount": 450
+      },
+      {
+        "id": "broccoli_florets",
+        "amount": 200
+      },
+      {
+        "id": "bell_pepper",
+        "amount": 2
+      },
+      {
+        "id": "carrot",
+        "amount": 2
+      },
+      {
+        "id": "soy_sauce",
+        "amount": 40
+      },
+      {
+        "id": "sesame_oil",
+        "amount": 12
+      },
+      {
+        "id": "garlic_clove",
+        "amount": 3
+      },
+      {
+        "id": "cornstarch",
+        "amount": 10
+      },
+      {
+        "id": "brown_rice_cooked",
+        "amount": 450
+      }
+    ],
+    "instructions": [
+      "Press tofu between paper towels for 10 minutes to remove excess water, then cube it and toss with cornstarch.",
+      "Heat sesame oil in a large skillet or wok over medium-high heat.",
+      "Add tofu and cook 6-8 minutes, turning occasionally, until golden and crisp on most sides; remove and set aside.",
+      "Add broccoli, bell pepper, and carrot to the pan; stir-fry 4-5 minutes until crisp-tender.",
+      "Return tofu to the pan, add minced garlic and soy sauce, and toss 1-2 minutes to combine.",
+      "Serve over warm brown rice."
+    ],
+    "macros": {
+      "kcal": 519,
+      "protein": 31,
+      "carbs": 61,
+      "fat": 18
+    }
+  },
+  {
+    "id": "black-bean-sweet-potato-tacos",
+    "name": "Black Bean and Sweet Potato Tacos",
+    "category": "dinner",
+    "proteinSource": "plant",
+    "carbSource": "tortilla",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "black_beans_canned",
+        "amount": 400
+      },
+      {
+        "id": "sweet_potato",
+        "amount": 3
+      },
+      {
+        "id": "corn_tortilla",
+        "amount": 8
+      },
+      {
+        "id": "avocado",
+        "amount": 1
+      },
+      {
+        "id": "cheddar_shredded",
+        "amount": 60
+      },
+      {
+        "id": "cumin",
+        "amount": 5
+      },
+      {
+        "id": "chili_powder",
+        "amount": 5
+      },
+      {
+        "id": "lime",
+        "amount": 1
+      },
+      {
+        "id": "cilantro",
+        "amount": 10
+      },
+      {
+        "id": "olive_oil",
+        "amount": 15
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 425F. Cut sweet potatoes into small cubes, toss with olive oil, cumin, and chili powder, and roast 20-25 minutes until tender and lightly browned.",
+      "Warm the black beans in a small saucepan, mashing slightly.",
+      "Warm corn tortillas in a dry skillet, 20-30 seconds per side.",
+      "Fill tortillas with roasted sweet potato and black beans.",
+      "Top with sliced avocado, shredded cheddar, and chopped cilantro.",
+      "Finish with a squeeze of fresh lime juice."
+    ],
+    "macros": {
+      "kcal": 487,
+      "protein": 18,
+      "carbs": 72,
+      "fat": 17
+    }
+  },
+  {
+    "id": "chocolate-protein-mug-cake",
+    "name": "Chocolate Protein Mug Cake",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "flour_ap",
+        "amount": 20
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 10
+      },
+      {
+        "id": "baking_powder",
+        "amount": 3
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 60
+      },
+      {
+        "id": "egg_large",
+        "amount": 1
+      },
+      {
+        "id": "honey",
+        "amount": 10
+      },
+      {
+        "id": "chocolate_chips",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "In a large mug, whisk together protein powder, flour, cocoa powder, and baking powder.",
+      "Add milk, egg, and honey; whisk until smooth and no lumps remain.",
+      "Fold in chocolate chips.",
+      "Microwave on high for 60-90 seconds, until the cake has risen and the center is just set.",
+      "Let cool 1-2 minutes before eating straight from the mug."
+    ],
+    "macros": {
+      "kcal": 397,
+      "protein": 37,
+      "carbs": 43,
+      "fat": 12
+    }
+  },
+  {
+    "id": "vanilla-protein-mug-cake-berries",
+    "name": "Vanilla Protein Mug Cake with Strawberries",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "flour_ap",
+        "amount": 25
+      },
+      {
+        "id": "baking_powder",
+        "amount": 3
+      },
+      {
+        "id": "milk_2pct",
+        "amount": 60
+      },
+      {
+        "id": "egg_large",
+        "amount": 1
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 3
+      },
+      {
+        "id": "strawberries",
+        "amount": 60
+      },
+      {
+        "id": "honey",
+        "amount": 8
+      }
+    ],
+    "instructions": [
+      "In a large mug, whisk together protein powder, flour, and baking powder.",
+      "Add milk, egg, vanilla extract, and honey; whisk until smooth.",
+      "Fold in half the chopped strawberries.",
+      "Microwave on high for 60-90 seconds until risen and set in the center.",
+      "Top with the remaining fresh strawberries and serve warm."
+    ],
+    "macros": {
+      "kcal": 367,
+      "protein": 35,
+      "carbs": 38,
+      "fat": 8
+    }
+  },
+  {
+    "id": "peanut-butter-protein-cookies",
+    "name": "Peanut Butter Protein Cookies",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 6,
+    "ingredients": [
+      {
+        "id": "peanut_butter",
+        "amount": 200
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 60
+      },
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "honey",
+        "amount": 60
+      },
+      {
+        "id": "baking_powder",
+        "amount": 4
+      },
+      {
+        "id": "chocolate_chips",
+        "amount": 40
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350F and line a baking sheet with parchment paper.",
+      "In a bowl, mix peanut butter, eggs, and honey until smooth.",
+      "Stir in protein powder and baking powder until a thick dough forms.",
+      "Fold in chocolate chips.",
+      "Scoop into 12 balls, place on the sheet, and flatten slightly with a fork in a crosshatch pattern.",
+      "Bake 9-11 minutes until edges are set. Cool 10 minutes before eating (2 cookies per serving)."
+    ],
+    "macros": {
+      "kcal": 323,
+      "protein": 19,
+      "carbs": 20,
+      "fat": 21
+    }
+  },
+  {
+    "id": "double-chocolate-protein-cookies",
+    "name": "Double Chocolate Protein Cookies",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 6,
+    "ingredients": [
+      {
+        "id": "peanut_butter",
+        "amount": 150
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 20
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 60
+      },
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "honey",
+        "amount": 50
+      },
+      {
+        "id": "baking_powder",
+        "amount": 4
+      },
+      {
+        "id": "chocolate_chips",
+        "amount": 50
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350F and line a baking sheet with parchment paper.",
+      "In a bowl, mix peanut butter, eggs, and honey until smooth.",
+      "Stir in cocoa powder, protein powder, and baking powder until a thick dough forms.",
+      "Fold in chocolate chips.",
+      "Scoop into 12 balls, place on the sheet, and flatten slightly.",
+      "Bake 9-11 minutes until just set. Cool 10 minutes before eating (2 cookies per serving)."
+    ],
+    "macros": {
+      "kcal": 284,
+      "protein": 17,
+      "carbs": 20,
+      "fat": 17
+    }
+  },
+  {
+    "id": "protein-ice-cream-sundae-bowl",
+    "name": "Protein Ice Cream Sundae Bowl",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "protein_ice_cream",
+        "amount": 1
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 15
+      },
+      {
+        "id": "chocolate_chips",
+        "amount": 10
+      },
+      {
+        "id": "walnuts",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Scoop the protein ice cream into a bowl and let sit 3-5 minutes to soften slightly.",
+      "Warm the peanut butter for 15 seconds in the microwave until drizzly.",
+      "Drizzle peanut butter over the ice cream.",
+      "Top with chocolate chips and chopped walnuts.",
+      "Serve immediately."
+    ],
+    "macros": {
+      "kcal": 522,
+      "protein": 46,
+      "carbs": 43,
+      "fat": 25
+    }
+  },
+  {
+    "id": "chocolate-cottage-cheese-pudding-with-dark-chocolate",
+    "name": "Chocolate Cottage Cheese Protein Pudding",
+    "category": "dessert",
+    "proteinSource": "dairy",
+    "carbSource": "none",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "cottage_cheese_4pct",
+        "amount": 200
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 12
+      },
+      {
+        "id": "honey",
+        "amount": 15
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 3
+      },
+      {
+        "id": "dark_chocolate_chunk",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Add cottage cheese, cocoa powder, honey, and vanilla extract to a blender.",
+      "Blend on high 1-2 minutes until completely smooth and pudding-like.",
+      "Pour into a bowl or jar.",
+      "Top with chopped dark chocolate and chill 10 minutes before eating, if time allows."
+    ],
+    "macros": {
+      "kcal": 337,
+      "protein": 25,
+      "carbs": 31,
+      "fat": 15
+    }
+  },
+  {
+    "id": "greek-yogurt-berry-parfait-granola",
+    "name": "Greek Yogurt Berry Parfait with Granola",
+    "category": "dessert",
+    "proteinSource": "dairy",
+    "carbSource": "oats",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 200
+      },
+      {
+        "id": "granola",
+        "amount": 30
+      },
+      {
+        "id": "blueberries",
+        "amount": 60
+      },
+      {
+        "id": "strawberries",
+        "amount": 60
+      },
+      {
+        "id": "honey",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Spoon a third of the yogurt into the bottom of a glass.",
+      "Layer with half the berries and a sprinkle of granola.",
+      "Repeat layers, finishing with yogurt on top.",
+      "Drizzle with honey and top with remaining granola and berries.",
+      "Serve immediately so the granola stays crunchy."
+    ],
+    "macros": {
+      "kcal": 371,
+      "protein": 24,
+      "carbs": 49,
+      "fat": 10
+    }
+  },
+  {
+    "id": "baked-apple-crisp-oats-honey",
+    "name": "Baked Apple Crisp with Oats & Honey",
+    "category": "dessert",
+    "proteinSource": "none",
+    "carbSource": "fruit",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "apple",
+        "amount": 4
+      },
+      {
+        "id": "rolled_oats",
+        "amount": 120
+      },
+      {
+        "id": "butter",
+        "amount": 30
+      },
+      {
+        "id": "honey",
+        "amount": 40
+      },
+      {
+        "id": "walnuts",
+        "amount": 40
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 3
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375F and grease a small baking dish.",
+      "Core and thinly slice the apples, then toss with vanilla extract and half the honey; spread in the baking dish.",
+      "In a bowl, mix oats, chopped walnuts, melted butter, and remaining honey until crumbly.",
+      "Sprinkle the oat topping evenly over the apples.",
+      "Bake 30-35 minutes until the topping is golden and apples are bubbling and tender.",
+      "Cool 10 minutes before serving warm."
+    ],
+    "macros": {
+      "kcal": 360,
+      "protein": 6,
+      "carbs": 55,
+      "fat": 15
+    }
+  },
+  {
+    "id": "peanut-butter-chocolate-banana-nice-cream",
+    "name": "Peanut Butter Chocolate Banana Nice Cream",
+    "category": "dessert",
+    "proteinSource": "none",
+    "carbSource": "fruit",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "banana",
+        "amount": 3
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 30
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 10
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 30
+      },
+      {
+        "id": "dark_chocolate_chunk",
+        "amount": 15
+      }
+    ],
+    "instructions": [
+      "Peel and slice bananas, then freeze on a tray for at least 3 hours or overnight.",
+      "Add frozen banana slices, peanut butter, cocoa powder, and almond milk to a food processor.",
+      "Blend, scraping down the sides as needed, until smooth and creamy like soft-serve, about 2-3 minutes.",
+      "Fold in chopped dark chocolate.",
+      "Serve immediately, or freeze 30 minutes for a firmer scoop."
+    ],
+    "macros": {
+      "kcal": 304,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 12
+    }
+  },
+  {
+    "id": "mango-coconut-chia-pudding",
+    "name": "Mango Coconut Chia Pudding",
+    "category": "dessert",
+    "proteinSource": "none",
+    "carbSource": "fruit",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "chia_seeds",
+        "amount": 45
+      },
+      {
+        "id": "coconut_milk_canned",
+        "amount": 100
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 150
+      },
+      {
+        "id": "honey",
+        "amount": 15
+      },
+      {
+        "id": "mango_chunks_frozen",
+        "amount": 200
+      },
+      {
+        "id": "coconut_shredded_unsweet",
+        "amount": 10
+      }
+    ],
+    "instructions": [
+      "Whisk chia seeds, coconut milk, almond milk, and honey together in a jar or bowl.",
+      "Cover and refrigerate at least 4 hours or overnight, stirring once after 30 minutes to prevent clumping.",
+      "Thaw the mango chunks slightly and puree half of them.",
+      "Layer the chia pudding with mango puree and remaining mango chunks in two glasses.",
+      "Top with shredded coconut before serving."
+    ],
+    "macros": {
+      "kcal": 350,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 23
+    }
+  },
+  {
+    "id": "frozen-berry-yogurt-bark",
+    "name": "Frozen Mixed Berry Yogurt Bark",
+    "category": "dessert",
+    "proteinSource": "dairy",
+    "carbSource": "fruit",
+    "servings": 4,
+    "ingredients": [
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 400
+      },
+      {
+        "id": "honey",
+        "amount": 30
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 3
+      },
+      {
+        "id": "frozen_mixed_berries",
+        "amount": 150
+      },
+      {
+        "id": "dark_chocolate_chunk",
+        "amount": 20
+      },
+      {
+        "id": "coconut_shredded_unsweet",
+        "amount": 15
+      }
+    ],
+    "instructions": [
+      "Line a baking sheet with parchment paper.",
+      "Whisk together greek yogurt, honey, and vanilla extract, then spread evenly onto the parchment about 1/4-inch thick.",
+      "Scatter the mixed berries, chopped dark chocolate, and shredded coconut evenly over the yogurt.",
+      "Freeze at least 3 hours or until completely solid.",
+      "Break into pieces and serve straight from the freezer.",
+      "Store remaining bark in an airtight container in the freezer."
+    ],
+    "macros": {
+      "kcal": 172,
+      "protein": 11,
+      "carbs": 18,
+      "fat": 7
+    }
+  },
+  {
+    "id": "fudgy-black-bean-protein-brownies",
+    "name": "Fudgy Black Bean Protein Brownies",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "legume",
+    "servings": 8,
+    "ingredients": [
+      {
+        "id": "black_beans_canned",
+        "amount": 400
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 40
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 60
+      },
+      {
+        "id": "honey",
+        "amount": 100
+      },
+      {
+        "id": "peanut_butter",
+        "amount": 60
+      },
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "baking_powder",
+        "amount": 5
+      },
+      {
+        "id": "chocolate_chips",
+        "amount": 50
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350F and grease an 8x8-inch baking pan.",
+      "Add drained black beans, cocoa powder, honey, peanut butter, eggs, baking powder, and vanilla extract to a food processor.",
+      "Blend until completely smooth, scraping down sides as needed.",
+      "Pulse in the protein powder until just combined, then fold in chocolate chips by hand.",
+      "Pour batter into the prepared pan and spread evenly.",
+      "Bake 22-25 minutes until the top is set and a toothpick comes out mostly clean.",
+      "Cool completely in the pan before cutting into 8 squares."
+    ],
+    "macros": {
+      "kcal": 240,
+      "protein": 15,
+      "carbs": 32,
+      "fat": 8
+    }
+  },
+  {
+    "id": "peanut-butter-protein-blondies",
+    "name": "Peanut Butter Protein Blondies",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "none",
+    "servings": 8,
+    "ingredients": [
+      {
+        "id": "peanut_butter",
+        "amount": 250
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 60
+      },
+      {
+        "id": "honey",
+        "amount": 80
+      },
+      {
+        "id": "egg_large",
+        "amount": 2
+      },
+      {
+        "id": "baking_powder",
+        "amount": 5
+      },
+      {
+        "id": "chocolate_chips",
+        "amount": 60
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350F and line an 8x8-inch pan with parchment paper.",
+      "In a bowl, mix peanut butter, honey, eggs, and vanilla extract until smooth.",
+      "Stir in protein powder and baking powder until fully combined into a thick batter.",
+      "Fold in most of the chocolate chips, reserving a few to sprinkle on top.",
+      "Spread batter evenly in the pan and scatter remaining chocolate chips over the top.",
+      "Bake 18-20 minutes until edges are golden and center is just set.",
+      "Cool completely before cutting into 8 bars."
+    ],
+    "macros": {
+      "kcal": 300,
+      "protein": 16,
+      "carbs": 20,
+      "fat": 19
+    }
+  },
+  {
+    "id": "mini-no-bake-cheesecake-bites",
+    "name": "Mini No-Bake Cheesecake Bites",
+    "category": "dessert",
+    "proteinSource": "dairy",
+    "carbSource": "none",
+    "servings": 6,
+    "ingredients": [
+      {
+        "id": "cream_cheese",
+        "amount": 200
+      },
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 100
+      },
+      {
+        "id": "honey",
+        "amount": 40
+      },
+      {
+        "id": "graham_crackers",
+        "amount": 60
+      },
+      {
+        "id": "butter",
+        "amount": 20
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 5
+      }
+    ],
+    "instructions": [
+      "Crush graham crackers into fine crumbs and mix with melted butter.",
+      "Press about a tablespoon of the crumb mixture into the bottom of each of 12 mini muffin liners.",
+      "Beat softened cream cheese, greek yogurt, honey, and vanilla extract together until smooth and fluffy.",
+      "Spoon the cheesecake mixture over the crusts, filling each liner.",
+      "Chill in the refrigerator at least 2 hours until set (2 bites per serving).",
+      "Serve cold, optionally topped with a few fresh berries."
+    ],
+    "macros": {
+      "kcal": 215,
+      "protein": 4,
+      "carbs": 16,
+      "fat": 15
+    }
+  },
+  {
+    "id": "dark-chocolate-almond-bark",
+    "name": "Dark Chocolate Almond Bark",
+    "category": "dessert",
+    "proteinSource": "none",
+    "carbSource": "none",
+    "servings": 8,
+    "ingredients": [
+      {
+        "id": "dark_chocolate_chunk",
+        "amount": 200
+      },
+      {
+        "id": "almonds",
+        "amount": 60
+      },
+      {
+        "id": "coconut_shredded_unsweet",
+        "amount": 20
+      },
+      {
+        "id": "salt",
+        "amount": 1
+      }
+    ],
+    "instructions": [
+      "Line a small baking sheet with parchment paper.",
+      "Melt the dark chocolate in a heatproof bowl over a pot of barely simmering water, stirring until smooth.",
+      "Pour the melted chocolate onto the parchment and spread into an even, thin layer.",
+      "Scatter chopped almonds, shredded coconut, and a pinch of salt evenly over the top.",
+      "Refrigerate 20-30 minutes until fully hardened.",
+      "Break into 8 pieces and store in an airtight container."
+    ],
+    "macros": {
+      "kcal": 209,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 16
+    }
+  },
+  {
+    "id": "greek-yogurt-waffle-berry-shortcake",
+    "name": "Greek Yogurt Waffle Berry Shortcake",
+    "category": "dessert",
+    "proteinSource": "dairy",
+    "carbSource": "bread",
+    "servings": 1,
+    "ingredients": [
+      {
+        "id": "waffles_frozen",
+        "amount": 2
+      },
+      {
+        "id": "greek_yogurt_plain_2pct",
+        "amount": 100
+      },
+      {
+        "id": "strawberries",
+        "amount": 100
+      },
+      {
+        "id": "whipped_topping_light",
+        "amount": 30
+      },
+      {
+        "id": "honey",
+        "amount": 8
+      }
+    ],
+    "instructions": [
+      "Toast the frozen waffles until golden and crisp.",
+      "Slice the strawberries.",
+      "Stack the waffles on a plate, spreading greek yogurt between the layers.",
+      "Top with sliced strawberries and a dollop of whipped topping.",
+      "Drizzle with honey and serve immediately."
+    ],
+    "macros": {
+      "kcal": 372,
+      "protein": 17,
+      "carbs": 58,
+      "fat": 10
+    }
+  },
+  {
+    "id": "chocolate-avocado-protein-mousse",
+    "name": "Chocolate Avocado Protein Mousse",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "fruit",
+    "servings": 2,
+    "ingredients": [
+      {
+        "id": "avocado",
+        "amount": 2
+      },
+      {
+        "id": "cocoa_powder",
+        "amount": 20
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 30
+      },
+      {
+        "id": "honey",
+        "amount": 40
+      },
+      {
+        "id": "almond_milk_unsweetened",
+        "amount": 40
+      },
+      {
+        "id": "vanilla_extract",
+        "amount": 3
+      }
+    ],
+    "instructions": [
+      "Scoop ripe avocado flesh into a food processor.",
+      "Add cocoa powder, protein powder, honey, almond milk, and vanilla extract.",
+      "Blend, scraping down sides as needed, 2-3 minutes until completely smooth and mousse-like.",
+      "Divide between two small bowls or glasses.",
+      "Chill 15-20 minutes before serving for a firmer texture."
+    ],
+    "macros": {
+      "kcal": 391,
+      "protein": 17,
+      "carbs": 37,
+      "fat": 24
+    }
+  },
+  {
+    "id": "no-bake-peanut-butter-protein-bites",
+    "name": "No-Bake Peanut Butter Protein Bites",
+    "category": "dessert",
+    "proteinSource": "protein_powder",
+    "carbSource": "oats",
+    "servings": 8,
+    "ingredients": [
+      {
+        "id": "peanut_butter",
+        "amount": 200
+      },
+      {
+        "id": "rolled_oats",
+        "amount": 120
+      },
+      {
+        "id": "whey_protein_powder",
+        "amount": 60
+      },
+      {
+        "id": "honey",
+        "amount": 60
+      },
+      {
+        "id": "chocolate_chips",
+        "amount": 40
+      },
+      {
+        "id": "chia_seeds",
+        "amount": 15
+      }
+    ],
+    "instructions": [
+      "In a large bowl, mix peanut butter and honey until smooth.",
+      "Stir in oats, protein powder, and chia seeds until a thick, sticky dough forms.",
+      "Fold in chocolate chips.",
+      "Roll the mixture into 16 small balls, about 1 tablespoon each.",
+      "Chill in the refrigerator at least 30 minutes to firm up (2 bites per serving).",
+      "Store in an airtight container in the fridge for up to a week."
+    ],
+    "macros": {
+      "kcal": 290,
+      "protein": 15,
+      "carbs": 26,
+      "fat": 16
+    }
+  }
+]

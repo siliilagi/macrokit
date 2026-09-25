@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#1f7a5c"/>
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="26"/>
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#3ecb96" stroke-width="26" stroke-linecap="round"
+          stroke-dasharray="660 943" transform="rotate(-90 256 256)"/>
+  <circle cx="256" cy="256" r="104" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="26"/>
+  <circle cx="256" cy="256" r="104" fill="none" stroke="#eaa23b" stroke-width="26" stroke-linecap="round"
+          stroke-dasharray="490 653" transform="rotate(-90 256 256)"/>
+  <text x="256" y="285" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="108" font-weight="700"
+        fill="#ffffff" text-anchor="middle">M</text>
+</svg>
