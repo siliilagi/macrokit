@@ -1,4 +1,4 @@
 {
-  "apiUrl": "",
+  "apiUrl": "https://script.google.com/macros/s/AKfycbwEjzO6EfVtCZVoIr6dZzvQ5RNOcE0bIlj-7ZfqmETJ8twmTH0zaU5D49oPYVvjbrFllQ/exec",
   "_note": "Set apiUrl to your deployed Google Apps Script Web App URL (see google-apps-script/Code.gs for setup steps) to turn on a shared, crowd-sourced recipe list that anyone visiting the site can add to. Leave blank to keep recipes device-local only."
 }
